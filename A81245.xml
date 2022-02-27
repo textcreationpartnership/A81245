@@ -1,0 +1,1044 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A model of true spiritual thankfulnesse. Delivered in a sermon before the Honourable House of Commons, upon their day of thanksgiving, being Thursday, Feb. 19. 1645, for the great mercy of God, in the surrender of the citie of Chester into the hands of the Parliaments forces in Cheshire, under the command of Sir William Brereton. / By Tho. Case, preacher in Milkstreet London, and one of the Assembly of Divines.</title>
+            <author>Case, Thomas, 1598-1682.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 124 KB of XML-encoded text transcribed from 23 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81245</idno>
+            <idno type="STC">Wing C833</idno>
+            <idno type="STC">Thomason E323_4</idno>
+            <idno type="STC">ESTC R200593</idno>
+            <idno type="EEBO-CITATION">99861304</idno>
+            <idno type="PROQUEST">99861304</idno>
+            <idno type="VID">113436</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81245)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113436)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 53:E323[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A model of true spiritual thankfulnesse. Delivered in a sermon before the Honourable House of Commons, upon their day of thanksgiving, being Thursday, Feb. 19. 1645, for the great mercy of God, in the surrender of the citie of Chester into the hands of the Parliaments forces in Cheshire, under the command of Sir William Brereton. / By Tho. Case, preacher in Milkstreet London, and one of the Assembly of Divines.</title>
+                  <author>Case, Thomas, 1598-1682.</author>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>[8], 36 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Ruth Raworth, for Luke Fawne, at the signe of the Parrot in Paul's Church-yard.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Psalms CVII, 30-31 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Sermons --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Jayanthi Reddy</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Jayanthi Reddy</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113436:1"/>
+            <gap reason="intruder" extent="1 page">
+               <desc>〈1 page inserted from a different book〉</desc>
+            </gap>
+            <pb facs="tcp:113436:1" rendition="simple:additions"/>
+            <p>A MODEL OF <hi>True Spiritual Thankfulneſſe.</hi>
+            </p>
+            <p>Delivered in a SERMON Before the Honourable Houſe of COMMONS, Upon their day of THANKSGIVING, being Thurſday, <hi>Feb.</hi> 19. 1645, for the great Mercy of God, in the <hi>Surrender</hi> of the Citie of <hi>Chester</hi> into the hands of the <hi>Parliaments Forces</hi> in CHESHIRS, under the Command of Sir WILLIAM BRERETON.</p>
+            <p>By THO. CASE, Preacher in Milkſtreet <hi>London,</hi> and one of the Aſſembly of Divines.</p>
+            <q>
+               <bibl>ISA 1.25.3.</bibl>
+               <p>
+                  <hi>The ſtrong people ſhall glorifie thee, the citie of the terrible Nations ſhall fear thee.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>ISA 1.26.2.</bibl>
+               <p>
+                  <hi>Open ye the gates, that the righteous Nation which keepeth the Truth, may enter in.</hi>
+               </p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed by <hi>Ruth Raworth,</hi> for <hi>Luke Fawne,</hi> at the ſigne of the <hi>Parrot</hi> in <hi>Paul</hi>'s Church-yard. 1646.</p>
+         </div>
+         <div type="license">
+            <pb facs="tcp:113436:2"/>
+            <opener>
+               <dateline>
+                  <date>Die Lunae, <hi>23</hi> Februarii, <hi>1645.</hi>
+                  </date>
+               </dateline>
+            </opener>
+            <p>ORdered, by the Commons aſſembled in Parliament, That Maſter <hi>Rous</hi> do give Thanks to Maſter <hi>Caſe</hi> and Maſter <hi>Woodcock</hi> for the great pains they took in the Sermons they preached at the intreatie of this Houſe on Thurſday laſt (being a day ſet apart for a day of publike Thankſ<g ref="char:EOLhyphen"/>giving for the taking of <hi>Chester</hi>) and to de<g ref="char:EOLhyphen"/>ſire them to print their Sermons. And it is ordered, that none ſhall print their Ser<g ref="char:EOLhyphen"/>mons without licenſe under their hands writing.</p>
+            <closer>
+               <signed>H. Elſynge, Cler. Parl. D. Com.</signed>
+            </closer>
+         </div>
+         <div type="license">
+            <p>I appoint <hi>Luke Fawne</hi> to print my Sermon.</p>
+            <closer>
+               <signed>THO. CASE.</signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:113436:2"/>
+            <head>To the Honourable Houſe of Commons in Par<g ref="char:EOLhyphen"/>liament now aſſembled.</head>
+            <opener>
+               <salute>NOBLE SENATORS,</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>O ſerve Your and the Kingdoms Thankfulneſſe for the late mercy of God, in putting</hi> Chester <hi>into your</hi> poſſeſſion; <hi>give me leave from the</hi> Preſſe <hi>to preſent unto your view what might have been burdenſom from the</hi> Pulpit; <hi>a ſhort</hi> List <hi>or</hi> Catalogue <hi>of ſome eminent Providences, wherewith the</hi> mercy <hi>of the day being clothed, will appear very rich and glorious.</hi>
+            </p>
+            <p n="1">
+               <hi>1.</hi> And firſt, you may pleaſe to obſerve, that the very <hi>lengthning</hi> of the <hi>Siege,</hi> was the <hi>advance</hi> of the <hi>Deſigne,</hi> while in the iſſue it appears to have been nothing elſe but an <hi>ambuſhment</hi> of <hi>Providence</hi> laid of purpoſe to draw on the enemy to their own deſtruction: Surely their pride and power have not met with a more <hi>burdenſome ſtone</hi> in all their bold and confident Adven<g ref="char:EOLhyphen"/>tures, then the <hi>Siege of Cheſter;</hi> upon which God bath broken them with <hi>breach</hi> upon <hi>breach,</hi> and bleſt you with <hi>victory</hi> upon <hi>victory</hi> worth many <hi>Cheſters;</hi> and when he had done, caſt <hi>that</hi> alſo in for an advantage. Thus many times do we look upon <hi>diſappointments</hi> of our hopes, as <hi>frowns</hi> of <hi>diſpleaſure,</hi> which afterwards we finde to be <hi>Plots</hi> of <hi>Mercy.</hi> Who would not wait upon that God; who if be withhold a <hi>mercy</hi> for a while, pays <hi>in<g ref="char:EOLhyphen"/>tereſt</hi> for the <hi>forbearance,</hi> of more worth many times then the <hi>principal</hi> it ſelf.</p>
+            <p n="2">
+               <hi>2.</hi> That in <hi>three Storms</hi> of the greateſt diſadvantage that height of <hi>walls,</hi> depth of <hi>trenches,</hi> impregnableneſſe of <hi>Forts,</hi> and multitudes of <hi>enemies</hi> (as many in the City as yours in the Siege) could render, the Forces were con<g ref="char:EOLhyphen"/>feſt by the enemy to have done more <hi>execution</hi> then they received, either in their <hi>aſſault</hi> or <hi>retreat:</hi> wherein one particular <hi>providence</hi> muſt not be ſilenc'd:<note n="*" place="margin">Lieut. Col. <hi>Ven<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>bles.</hi>
+               </note> an <hi>active Commander</hi> who was four times upon the walls; and though through the unexpected diſadvantages of the deſigne, not ſeconded according to expectation, yet was brought off <hi>harmleſſe,</hi> ſave onely a <hi>ſlight wound</hi> on his arm, to minde him <hi>what arm</hi> it was that made his <hi>reſcue.</hi>
+            </p>
+            <p n="3">
+               <hi>3.</hi> That in all the <hi>Sallies</hi> which the enemy hath made upon the Parlia<g ref="char:EOLhyphen"/>ments Quarters, they had more cauſe at their returns into their <hi>ſtrong Hold,</hi> to
+<pb facs="tcp:113436:3"/>
+               <hi>wring</hi> their <hi>hands</hi> then to <hi>ting</hi> their <hi>bells,</hi> being always ſent home with more blowes then they give.</p>
+            <p n="4">
+               <hi>4.</hi> That our Engines during the Siege have conſtantly done more execution upon the enemy <hi>within,</hi> then theirs have done upon our men <hi>without,</hi> though the oddes of all <hi>offenſive</hi> and <hi>defenſive</hi> advantages were on their ſide; where<g ref="char:EOLhyphen"/>by God would manifeſt the difference, between having <hi>walls</hi> and <hi>bulwarks</hi> for <hi>Salvation,</hi>
+               <note place="margin">I<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a. 26.1.</note> and having <hi>Salvation</hi> for <hi>walls</hi> and <hi>bulwarks.</hi>
+            </p>
+            <p n="5">
+               <hi>5.</hi> It was onely an unexpected Help to our ſide, that a Blinde of Providence cauſed them to leave the <hi>Proſpect</hi> of a Steeple ſo neer the City-walls undemo<g ref="char:EOLhyphen"/>liſhed from whence our men did perform daily juſtice upon the Rebels, ſlaying one of their ſterueſt, and divers others. <hi>So God oftentimes beats the enemie with their own weapons.</hi>
+            </p>
+            <p n="6">
+               <hi>6.</hi> The <hi>patience</hi> and <hi>conſtancy</hi> of your Souldiery, was eminently remark<g ref="char:EOLhyphen"/>able, which was ſuch, as though there were temptations enough to <hi>ſtorm</hi> it, as <hi>extremity of weather, want of pay, clothes, food, unparallel'd hard duty all the time of the ſiege,</hi> being forced many times to <hi>fetch their water from</hi>
+               <note n="*" place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Sam. <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.15.</note> 
+               <hi>the gate of Bethlem,</hi> and that not for <hi>wantonneſſe,</hi> but for <hi>neceſſity;</hi> their bread from the enemies Quarters<g ref="char:punc">▪</g> the ſtores of the languiſhing Countrey be<g ref="char:EOLhyphen"/>ing drained, and expected ſupplies from neighbouring Counties failing, to the ex<g ref="char:EOLhyphen"/>treme <hi>haraſſing</hi> and <hi>hazarding</hi> of their Forces both abroad and at home: I ſay ſuch notwithſtanding was their <hi>conſtancy</hi> and <hi>patie<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ce,</hi> that none of all theſe could <hi>conquer</hi> it; <hi>Providence</hi> always ſtepping in with timely Supplies and admirable Reſenes in their deepeſt <hi>diſcouragements</hi> and <hi>deſertions. In the mount the Lord hath been ſeen.</hi>
+               <note place="margin">Gen. 22.14.</note>
+            </p>
+            <p n="7">
+               <hi>7.</hi> The nature of your Forces which performed this ſervice, renders it the more obſervable; they being not an <hi>united Brigade</hi> cull'd and form'd for ſuch a de<g ref="char:EOLhyphen"/>ſigne, but a <hi>collective Body</hi> out of ſome few adjacent Counties, the more <hi>capa<g ref="char:EOLhyphen"/>ble of diſcontent,</hi> and <hi>uncapable of Commands,</hi> had not God put a ſingular Spirit of <hi>Wiſedom</hi> and <hi>Activity</hi> into the Commanders, and of <hi>wil<g ref="char:EOLhyphen"/>lingneſſe</hi> or <hi>awe</hi> into the Souldiers: So that here you have that word made good again:<note place="margin">Zech. 46.</note> 
+               <hi>Not by might nor power, but by my Spirit, ſaith the Lord of Hoſts.</hi>
+            </p>
+            <p n="8">
+               <hi>8.</hi> The enemy were not ſo <hi>high</hi> all the time of the Siege in their <hi>demands,</hi> but your <hi>terms</hi> were as <hi>honourable</hi> in the <hi>Surrender;</hi> which received this <hi>addition,</hi>
+               <note place="margin">Magmon eſt te<g ref="char:EOLhyphen"/>ſtimohium pro <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o qui judicium ad <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſario com<g ref="char:EOLhyphen"/>minit. <hi>Abulens.</hi>
+               </note> that the enemies themſelves confeſſe <hi>Conditions were never bet<g ref="char:EOLhyphen"/>ter kept ſince the wars began.</hi> A teſtimony out of the mouth of an adver<g ref="char:EOLhyphen"/>ſary, is double honour.</p>
+            <p n="9">
+               <hi>9.</hi> Of what <hi>Conſequence</hi> the <hi>Succeſſe</hi> is, let <hi>Cheſters</hi> expectation from <hi>Ireland,</hi> and the preparations of the <hi>Iriſh Cut-throats</hi> for <hi>Cheſter</hi> the Key of this Kingdom, the <hi>Reſt</hi> of that poor <hi>fainting County;</hi> the trembling of all the malignant neighbouring <hi>Strong Holds</hi> in <hi>Wales;</hi> and the ſecuring of your <hi>Northern Leagur</hi> from the approach of an enemy: the opening of the way of Trade between <hi>London</hi> and theſe parts; the daſhing in pieces of the
+<pb facs="tcp:113436:3"/>
+               <hi>Enemies</hi> Deſignes, who lo, were haſtning now to the <hi>Infallible</hi> relief of their Gariſons in <hi>Cheſhire</hi> and <hi>Lancaſhire;</hi> the <hi>reducing</hi> of the <hi>North,</hi> the ab<g ref="char:EOLhyphen"/>ſolute <hi>Conqueſt</hi> of <hi>Scotland,</hi> and then back again to the <hi>ſharing of</hi> Eng<g ref="char:EOLhyphen"/>land: for all this, and more too (<hi>Siſera</hi>-like) they had not onely <hi>deſigned,</hi> but <hi>diſpatcht</hi> in their vain Confidences: The <hi>ſtrengthning the hands</hi> of our Friends thorow the whole Kingdom, who ſhall hear and rejoyce; the <hi>weak<g ref="char:EOLhyphen"/>ning</hi> of the Enemy, who ſhall hear, and their heart ſhall melt for fear. Let theſe, I ſay, and many other <hi>Improvements</hi> (too many for an <hi>Epiſtle,</hi> but not too many for our <hi>Thankfulneſſe</hi> to enquire into) let theſe Speak.</p>
+            <p n="10">
+               <hi>10.</hi> And all this, whether it have not been the <hi>cheapeſt Purchaſe</hi> the Par<g ref="char:EOLhyphen"/>liament hath made, ſince it was conſtrained to <hi>redeem</hi> this poor <hi>ſold</hi> Nation with <hi>Money</hi> and <hi>Blood,</hi> I appeal to <hi>your Selves,</hi> and to that <hi>exhauſted County,</hi> which in the purſuit of this Service hath, to their <hi>exceeding Ho<g ref="char:EOLhyphen"/>nours,</hi> iſſued not much leſſe (if I be not miſinformed,) then <hi>40000 l.</hi> the very laſt vital blood that was left in their veins.<note place="margin">Pſal. 110.<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</note> 
+               <hi>Surely the Lord made them a willing people in this day of his power.</hi> There is yet a paſſage or two wherein you ſhall behold <hi>Mercy and truth meeting together, Righteuſ<g ref="char:EOLhyphen"/>neſſe and peace kiſſing each other.</hi>
+            </p>
+            <p n="11">
+               <hi>11.</hi> 
+               <g ref="char:V">Ʋ</g>pon the <hi>ſame day</hi> that the <hi>enemy</hi> began to <hi>fortifie</hi> the City of <hi>Che<g ref="char:EOLhyphen"/>ſter,</hi> and make their <hi>Outworks,</hi> that very day three yeers, <hi>the Parliaments Forces entred the ſame:</hi>
+            </p>
+            <list>
+               <item>Feb. 3. 1642.</item>
+               <item>Feb. 3. 1645</item>
+            </list>
+            <p n="12">
+               <hi>12.</hi> The <hi>King</hi> muſtered the Cheſhire Forces, ſummon'd, diſarm'd the <hi>Train<g ref="char:EOLhyphen"/>bands</hi> upon <hi>Holt-Heath,</hi> Sept. <hi>24 1642.</hi> and upon <hi>the ſame day</hi> three yeers, the Kings Army was <hi>routed</hi> upon <hi>Routon</hi>-we may rightly call it <hi>Routing-Heath:</hi> and another <hi>Brigade</hi> which was intended for a <hi>Reſerve,</hi> commanded by the <hi>Earl</hi> of <hi>Lichfield</hi> and the Lord <hi>Gerard,</hi> defeared upon <hi>Holt-Heath</hi> (as I take it ſo it is called) where the Earl of <hi>Lichſield</hi> was ſlain; and all this in the <hi>Kings view,</hi> He then ſtanding in <hi>Phoenix-Tower</hi> in <hi>Cheſtr. Lord, when thy hand is lifted up, they will not ſee; but they ſhall ſee;</hi> I pray God to <hi>Repentance,</hi> and not to <hi>Shame.</hi>
+            </p>
+            <p>
+               <note place="margin">
+                  <hi>Vide</hi> Paſſages and Treaties of the Siege and taking of <hi>Cheſter.</hi>
+               </note>Honou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>able Parriots, <hi>theſe ſew</hi> paſſages <hi>to which you have already further diſcoveries, and may ſinde more, hold forth</hi> much of God; <hi>His</hi> Wiſedom, <hi>his</hi> Strength, <hi>his</hi> Juſtice, <hi>his</hi> Mercy, beaming <hi>forth in the</hi> Light <hi>of this day. And this you may obſerve, as the reſult of all; It is</hi> Fidelity <hi>God</hi> proſpers <hi>and</hi> Crowns <hi>in his Service. Now that God who hath made your Armies</hi> faith<g ref="char:EOLhyphen"/>ful <hi>to</hi> you, <hi>make you every day more and more</hi> faithful <hi>to</hi> himſelf; <hi>that what was</hi> Moſes <hi>Honour, and His too who is</hi> Moſes <hi>and your</hi> Lord<g ref="char:punc">▪</g> 
+               <hi>the Lord Jeſus, may be the Parliament of</hi> England<hi>'s renown to all Generations,</hi> They were faithful to him that appointed them in all his Houſe, in doing all things according to the patern: <hi>Which as it was the</hi> travel <hi>of this</hi> Cautionary,<note place="margin">Heb. 3.2.</note> 
+               <hi>not</hi> Accuſatory <hi>Ser<g ref="char:EOLhyphen"/>mon (now the ſecond time waiting upon your Commands) ſo it ſhall be the daily prayer of.</hi>
+            </p>
+            <closer>
+               <signed>
+                  <hi>Your Honours, not more deſirous to</hi> live, <hi>then to ſerve</hi> Chriſt <hi>in</hi> you, <hi>THO. CASE.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:113436:4"/>
+            <head>To the truely Noble Sir <hi>William Brereton,</hi> Baronet, Commander in Chief of the Parliaments Forces in <hi>Cheſhire;</hi> and to all thoſe worthy Commanders and Gentlemen, whom God hath ho<g ref="char:EOLhyphen"/>noured with the beginning, managing, and now happily <hi>finiſhing</hi> of the Work in <hi>Cheſhire.</hi>
+            </head>
+            <opener>
+               <salute>Honourable and ever to be honoured Gent.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hat <hi>Encomium</hi> the Apoſtle gave the beloved Diſciple, I hope the world wil give me leave to beſtow upon you, without the the leaſt ſuſpition of Flattery; <hi>You do faithfully whatſoever you do</hi> in the Publike Truſt committed to you:<note place="margin">1. Joh. v. 5.</note> and I beſeech you look upon it as Gods honouring of you, more then your honouring of God: a heart to be <hi>faithful,</hi> and happineſſe to be <hi>ſucceſſeful</hi> in Gods deſignes, is a <hi>double engagement:</hi> which I heartily deſire may not lift up your hearts, unleſſe it be in the ways of God, in whoſe <hi>Name you have gone out and proſpered.</hi> So that you may go and bear a part in his<note n="*" place="margin">Barak. Judg. 5.13.</note> 
+               <hi>Excellen<g ref="char:EOLhyphen"/>cies Song: Then he made him that remaineth to have dominion over the Nobles, among the people the Lord made me have dominion over the mighty.</hi> As an ac<g ref="char:EOLhyphen"/>knowledgement of which honour God hath done you, give me leave hum<g ref="char:EOLhyphen"/>bly to ſuggeſt a few <hi>Returns</hi> of <hi>Thankfulneſſe</hi> that will no leſſe <hi>become</hi> you, then <hi>crown</hi> and <hi>perfect your work.</hi>
+            </p>
+            <p n="1">1. <hi>Make it, I beſeech you, your prime deſigne to ſurrender up that Citie to God which God hath ſurrendred up to you, by engaging your beſt abilities and intereſts for the</hi> bringing in <hi>and</hi> encouragement of a learned, godly, Orthodox <hi>Miniſtery into the City, the</hi> Spiritual Militia <hi>that muſt</hi> ſecure <hi>the</hi> peace <hi>thereof. If Hereſie and Schiſm break in, I ſhall ſet down and cry,</hi> Cheſter is loſt the ſecond time; <hi>and in which</hi> more miſerable, <hi>it will not be eaſie to determine.</hi>
+            </p>
+            <p n="2">
+               <note place="margin">Agrippins <hi>to</hi> Nero.</note>2. <hi>Studie</hi> oneneſſe <hi>in your affections, and</hi> oneneſſe <hi>in your Counſels:</hi> Unitie <hi>and</hi> you <hi>are</hi> unconquerable. <hi>Remember whoſe</hi> ſuggeſt <hi>it was,</hi> Divide &amp; im<g ref="char:EOLhyphen"/>pera.</p>
+            <p n="3">3. <hi>Let your</hi> diſtinguiſhing favours <hi>run counter-motion to the enemies: let Malignants have no more encouragement then may demonſtrate you more ſtudious of their</hi> Reformation <hi>then their</hi> Ruine: <hi>Let them have no more cauſe</hi> to call the proud happie,<note place="margin">Hagg. 3.15. Verſ. 18.</note> 
+               <hi>nor to ſay,</hi> They that work wickedneſſe are ſet up: <hi>but let them</hi> return, and diſcern between the righteous and the wicked, between him that ſerveth God and him that ſerveth him not.</p>
+            <p n="4">4. <hi>Be tender (O be tender, I ſay, as of your own lives) of the</hi> willing faith<g ref="char:EOLhyphen"/>ful party <hi>who in</hi> City <hi>or</hi> Countrey <hi>have ſerved</hi> you <hi>in this Cauſe of</hi> Chriſt <hi>and the</hi> Parliament, <hi>to the very laſt drop of</hi> livelihood <hi>and</hi> blood: <hi>O to ſtudie now the</hi> Reſt, Refreſhing, Recruiting <hi>of that languiſhing people more then your own intereſts and advantage, will render you more truely honourable then all your Victo<g ref="char:EOLhyphen"/>ries,
+<pb facs="tcp:113436:4"/>and bring the bleſſing of periſhing families upon you and your poſterity. To that end, imitate the true</hi> gallantry <hi>of</hi> Nehemiah: <hi>read his</hi> 5 <hi>Chapter, eſpecially from the</hi> 14 <hi>verſe to the end; and the Lord grant</hi> you may get it by heart. <hi>Then</hi> ſhall they that are delivered from the noiſe of the archers in the places of drawing water, rehearſe the righteous acts of the Lord,<note place="margin">Judg. 5.11.</note> even the righteous acts towards the inhabitants of the Villages <hi>in Cheſhire;</hi> then ſhall the peo<g ref="char:EOLhyphen"/>ple of the Lord go down to the gates.</p>
+            <p n="5">5. <hi>Studie</hi> Self-conqueſts, Sin-victory. He that is ſlowe to anger is bet<g ref="char:EOLhyphen"/>ter then the mighty, and he that ruleth his ſpirit, then he that taketh a City.<note place="margin">
+                  <hi>Prov. 16.32.</hi> Fortior eſt qui ſe<g ref="char:EOLhyphen"/>quam qui fortiſ<g ref="char:EOLhyphen"/>ſima vincit moenia.</note> 
+               <hi>If after ye have conquered the Luſts of men, you are conquered by your own Luſts; if after you have</hi> led your enemies captive, <hi>Satan can</hi> take you captive at his will; <hi>you are undone for ever.</hi> The Lord make you, <hi>every way,</hi> more then Conquerors, <hi>&amp;c.</hi>
+               <note place="margin">2 Tim. 2.26. Rom. 8.37.</note>
+            </p>
+            <p n="6">6. <hi>Laſtly, remember what</hi> General Joab <hi>did when he had taken</hi> Rabbah <hi>of the</hi> Ammonites, <hi>and do ye likewiſe now ye have taken this</hi> Cheſhire-R<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bbah; <hi>ſend for</hi> King David; <hi>yea, ſend for that King who is</hi> Davids ſon <hi>and</hi> Davids Lord, King JESUS; <hi>give him poſſeſſion, and ſet the</hi> Crown of glory <hi>upon his</hi> Head, <hi>bowing your</hi> beads <hi>before him, and caſting down your</hi> Crowns, <hi>ſaying,</hi> Not unto us, O Lord, not unto us, but to thy Name give the praiſe.<note place="margin">Ezek. 48.35.</note> 
+               <hi>O let not the</hi> Ci<g ref="char:EOLhyphen"/>ty be called by your Name; <hi>but let the</hi> Name <hi>of the</hi> City <hi>be from</hi> this day, Jehovah-ſhammah, <hi>The Lord is there.</hi>
+            </p>
+            <p>Worthy Sirs, what is now my <hi>faithful advice</hi> to you, ſhall be always the humble <hi>requeſt</hi> for you at the Throne of Grace, of<note place="margin">Pſal. 115.1.</note>
+            </p>
+            <closer>
+               <signed>Your Honours to ſerve you in all Goſpel offices, <hi>THO. CASE.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <head>To the Maior, Aldermen, and the reſt of the Citizens and Inhabitants of the City of <hi>Chester, Grace</hi> with <hi>Peace</hi> be multiplied.</head>
+            <opener>
+               <salute>Right Worſhipful and Beloved,</salute>
+            </opener>
+            <p>
+               <hi>I Deſire to rejoyce</hi> with you <hi>and</hi> for you; <hi>in this great mercy of God, in reſto<g ref="char:EOLhyphen"/>ring you to your Habitations, from which ſome of you have been ſo long divorced; or to your</hi> Liberties, <hi>in the ſurpriſe whereof you have been no better then priſo<g ref="char:EOLhyphen"/>ners in your own</hi> Houſes: <hi>Which that it may be a</hi> mercy indeed, <hi>give me leave, as one that loves you, to commend unto you a</hi> few Cautions.</p>
+            <p n="1">1. Take heed, I beſeech you, now that you are returned to your <hi>old Hou<g ref="char:EOLhyphen"/>ſes,</hi> you do not return to your <hi>old ſins;</hi> now you are reſtored to your <hi>Civil Liberties,</hi> you do not backſlide to your former <hi>ſinful Liberties:</hi> What they were, you beſt know: give me leave to minde you what your Chriſtian friends in the Kingdom have taken notice of and bewailed in you: <hi>Pride
+<pb facs="tcp:113436:5"/>in your apparel, ſumptuouſneſſe in your houſes, exceſſive delicacie on your Tables;</hi> (whoſe ſins theſe were, <hi>Ezek.</hi> 16.49 will tell you) <hi>profanation of Sabbaths, contempt of the faithful Miniſtery of the Word, compliance with Epiſcopal Super<g ref="char:EOLhyphen"/>ſtition formality in Religion, almoſt ſcorn of the godly, and of the power of God<g ref="char:EOLhyphen"/>lineſſe,</hi> and the like.<note place="margin">Gal. 4.16.</note> I ſpeak not theſe things to <hi>ſhame you,</hi> but as a Mini<g ref="char:EOLhyphen"/>ſter of Chriſt and a friend to <hi>admoniſh you;</hi> and I hope I ſhall not become <hi>your enemy becauſe I tell you the truth.</hi> Ile aſſure you, Friends, you have as much cauſe to keep days of <hi>Humiliation</hi> in <hi>Cheſter</hi> for your <hi>old ſins,</hi> as days of <hi>Thanksgiving</hi> for your <hi>new Mercies. A voice was heard upon the high pla<g ref="char:EOLhyphen"/>ces,</hi>
+               <note place="margin">Jer. 3.21.</note> 
+               <hi>weeping and ſupplication of the children of</hi> Iſrael; <hi>for they have perverted their way, and have forgotten the Lord their God.</hi> This was the <hi>poſture</hi> of <hi>Iſ<g ref="char:EOLhyphen"/>rael returning out of Captivity,</hi> and I wiſh from my ſoul it may be <hi>Yours.</hi>
+            </p>
+            <p n="2">2. <hi>Enquire the way to Sion with your faces thitherward;</hi> and to that end, purchaſe to you<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſelves an <hi>inward, ſpiritual,</hi>
+               <note place="margin">Jer. 50.5.</note> 
+               <hi>powerful Miniſtery,</hi> whatever it coſt you. Say not you are poor; or if you do, know that this is the next way to <hi>recruit your eſtates:</hi> the Goſpel never comes empty-handed to a people; it bears its own charges with advantage:<note place="margin">Prov. 23.23.</note> O then, <hi>buy the truth and ſell it not;</hi> buy it at <hi>any price,</hi> ſell it at <hi>no price.</hi> Prove God herewith, I beſeech you, and ſee if he do not open the windows of heaven and <hi>pour out a bleſſing upon you,</hi> and make your <hi>later end</hi> (with <hi>Job</hi>) more proſperous then your <hi>beginning.</hi>
+               <note place="margin">Mal. 3.10. Job. 42.12. 2 Tim. 3 5.</note>
+            </p>
+            <p n="3">3. Labour to be <hi>Chriſtians in good earneſt:</hi> A form of godlineſſe will not ſerve the turn (it is a <hi>moth</hi> that will inſenſibly eat out the beauty &amp; ſtrength of a <hi>Church</hi> or <hi>people</hi>) <hi>Studie the power of it.</hi> You have now made an Expe<g ref="char:EOLhyphen"/>riment, whoſe ſervice is better,<note place="margin">Deut. 28.47, 48.</note> Gods or your Enemies. <hi>If God be God</hi> (with you now) <hi>ſerve him,</hi> and ſerve him like Himſelf; <hi>Be perfect as your heavenly Father is perfect:</hi>
+               <note place="margin">Matth. 5. <hi>ult.</hi>
+               </note> if after all this you <hi>dally</hi> with God, and ſettle up<g ref="char:EOLhyphen"/>on your <hi>lees</hi> again, <hi>I</hi> muſt propheſie to you in the <hi>Name</hi> of the Lord; The troubles you have ſuffered <hi>have been but the beginnings of your ſorrow.</hi>
+            </p>
+            <p n="4">4. From henceforth know your <hi>friends</hi> from your <hi>foes;</hi> learn to diſtin<g ref="char:EOLhyphen"/>guiſh between <hi>Complements</hi> and <hi>Realities: The Bramble ſaid to the trees, Come and put your truſt under my ſhadow.</hi> Truſt Brambles no more.</p>
+            <p n="5">5. Studie Thankfulneſſe for this bleſſed turn of Providence <hi>in returning your Captivity.</hi> They ſay abroad in the Kingdom, <hi>The Lord hath done great things for you:</hi>
+               <note place="margin">Judg. 9.15.</note> Will not you eccho back again, <hi>Yea, the Lord hath done great things for us, whereof we rejoyce?</hi> The Lord teach you to pr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ze your <hi>naked walls</hi> more then you have done formerly your <hi>ſumptuous ſurniſht houſes;</hi> to improve your Freedoms to better purpoſe then ever heretofore. How you may be thankful, this enſuing Sermon, preached for the Celebration of your Deliverance, will direct. You bear the <hi>greateſt ſhare</hi> in the <hi>mercy,</hi> I wiſh you may bear the <hi>greateſt ſhare</hi> in the <hi>duty.</hi>
+            </p>
+            <p n="6">6. <hi>Finally, Brethren, farewel: Be perfect, be of good omfort, be of one minde, live in peace, and the God of Love and Peace ſhall be with you.</hi> So prays</p>
+            <closer>
+               <signed>Your real friend and ſervant in the Lord, <hi>Tho. Caſe.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:113436:5"/>
+            <head>A Model of true SPIRITUAL THANKFULNESSE.</head>
+            <head type="sub">Delivered in a Sermon before the Honourable Houſe of COMMONS, Upon their day of Thanſgiving (being <hi>Thurſday</hi> the 19 of <hi>Febr.</hi> 1645.) for the great Mercy of God in the Surrender of the City of CHESTER into the hands of the Parliaments Forces in <hi>Cheſhire</hi> under the Command of Sir <hi>William Brereton.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>PSAL. 107.30, 31.</hi>
+                  </bibl>
+                  <p>Then are they glad becauſe they be quiet: So he bringeth them into the deſired haven.</p>
+                  <p>O that men would praiſe the Lord for his goodneſſe, and for his wonderful works to the children of men!</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg>N the two former Pſalms, the holy Pſalmiſt doth celebrate the <hi>mighty Acts</hi> of God in the deliver<g ref="char:EOLhyphen"/>ance and preſervation of his Church. In this Pſalm he contemplates the <hi>wonders</hi> of <hi>Providence</hi> towards all <hi>Mankinde:</hi> For after he had in the beginning of
+<pb n="2" facs="tcp:113436:6"/>the Pſalm finiſhed the mention of his mercy and loving kind<g ref="char:EOLhyphen"/>neſſe to his <hi>Red<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>emed,</hi> in the eight firſt Verſes, he deſcends to take notice what God doth.</p>
+            <p>For the <hi>Hungry,</hi> Verſ. 9.</p>
+            <p>For the <hi>diſconſolate</hi> and <hi>afflicted,</hi> Verſ. 10, 11, 12 13, 14.</p>
+            <p>For the <hi>ſick</hi> and <hi>languiſhing,</hi> Verſ. 17, 18 19, 20.</p>
+            <p>F<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r <hi>Sea-men</hi> and ſuch as travel upon the waters; from the 23 to my Text.</p>
+            <p>He takes notice what he doth in the great <hi>turns</hi> of <hi>Provi<g ref="char:EOLhyphen"/>dence,</hi> turning <hi>plenty</hi> into <hi>famine</hi> wherein his <hi>Justice</hi> is magni<g ref="char:EOLhyphen"/>fied, V<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rſ. 33, 34.</p>
+            <p>And (back again) <hi>famine</hi> into <hi>plenty,</hi> wherein his <hi>Mercie</hi> is advanced, Verſ 35.36, 37 38.</p>
+            <p>What he doth in breaking the power of mighty Princes turned <hi>Oppreſſors</hi> and <hi>Tyrants,</hi> in making them <hi>contemptible,</hi> and <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ain</hi> like, <hi>Vagabonds</hi> to wander up and down in deſert and hungry places, Verſ. 40.</p>
+            <p>And in lifting up the heads and reſtoring the habitations of their poor oppreſſed Subjects and People, Verſ. 41.</p>
+            <p>Upon each of theſe admirable <hi>Turns</hi> of <hi>Providence</hi> the Pſalmiſt ſets a <hi>Crown</hi> of glory, breathing out his enlarged and repeated deſires, that when <hi>men</hi> have the <hi>comfort, God</hi> might have the <hi>praiſe</hi> of all his wonders of Providence. <hi>Oh that men would praiſe the Lord for his goodneſſe</hi> &amp;c. It is the <hi>burden</hi> of the Song; <hi>Oh that men would praiſe the Lord!</hi>
+            </p>
+            <p>My Text is the fourth repetition of this gracious breathing, poured out over the fourth work and wonder of Providence; namely. The admirable and even ſtupendious deliverances which God vouchſafes <hi>Mariners</hi> and <hi>Sea-men</hi> in many a <hi>black, dreadful, furious, death-threatnin<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſtorm and tempeſt,</hi> expreſt to the life in the 23, 24, 25, 26 27, 28, 29 Verſes.</p>
+            <p>I ſhall not meddle with the <hi>D<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>liverance</hi> it ſelf, though, if I ſhould, it would be neither impertinent nor improper for the work of this day: for certainly a man might eaſily run a parallel between the ſtate of the Mariner in th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſtorm, and the condition of this poor and <hi>yet</hi> bleeding Church and State.</p>
+            <p>
+               <note place="margin">In <hi>Ireland</hi> and <hi>England.</hi>
+               </note>We that have gone down into the Sea, this <hi>Red-ſea</hi> of <hi>Blood,</hi> and have had our buſineſſe now for theſe four or five yeers in
+<pb n="3" facs="tcp:113436:6"/>theſe <hi>great waters</hi> of <hi>Civil war;</hi> ſurely we have ſeen <hi>the works of the works of the Lord, and his wonders in the deep:</hi>
+               <note place="margin">Verſe 24</note> If ever peo<g ref="char:EOLhyphen"/>ple ſaw the <hi>works,</hi> the <hi>wonders</hi> of the workings of <hi>Jehovah,</hi> we have.</p>
+            <p>We have lived (I think I may ſafely ſpeak it) in the greateſt Age of <hi>wonders</hi> that ever the Church knew.</p>
+            <p>We uſe to ſay <hi>Miracles are ceaſt;</hi> but truely, if <hi>men</hi> have ceaſed to do <hi>Miracles, God</hi> hath not; and yet he hath done them <hi>by men</hi> too, in this <hi>Deep</hi> of <hi>Englands,</hi> and <hi>Scotlands,</hi> and <hi>Irelands troubles</hi> and <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fflictions.</hi>
+            </p>
+            <p>
+               <hi>For he commandeth and <gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ſeth up the ſtormy winde,</hi>
+               <note place="margin">Verſe 25.</note> 
+               <hi>which lift<g ref="char:EOLhyphen"/>eth up the waves thereof.</hi> Surely all the <hi>ſtorms</hi> and <hi>tempests</hi> that have beaten upon theſe three Kingdoms, have not come by <hi>chance</hi> and <hi>fortune;</hi> this af<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>iction hath not riſen <hi>out of the dust:</hi> but as it was with <hi>Sol<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mon,</hi> af<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er his heart began to de<g ref="char:EOLhyphen"/>part from God, it is ſa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d,<note place="margin">1 Kings 11.14.</note> 
+               <hi>The Lord ſtirred up an Adverſary unto Solomon, Had<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d the Ed<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mite,</hi> &amp;c. <hi>And</hi> (Verſ. 23.) <hi>God ſtirred him up another Adverſary; Rezin the ſon of Eliadah.</hi> Ad<g ref="char:EOLhyphen"/>verſary after Adverſary, and all <hi>ſtirred up by God.</hi> So hath it been and is yet with us; <hi>Storm</hi> after <hi>Storm, Tempeſt</hi> after <hi>Tem<g ref="char:EOLhyphen"/>peſt;</hi> one <hi>cloud of blood</hi> and <hi>wrath</hi> after another,<note place="margin">Eccleſ. 12.2.</note> 
+               <hi>(The clouds have returned after rain)</hi> and all <hi>raiſed</hi> up by <hi>God,</hi> in his righ<g ref="char:EOLhyphen"/>teous Judgement upon theſe ſinful backſliding Nations: We have (as it followeth) <hi>been mounted up to heaven,</hi> and then hurl'd <hi>down again into the depths.</hi>
+            </p>
+            <p>Oh the various changes that have been upon us I Somtimes <hi>up,</hi> and ſomtimes <hi>down;</hi> ſomtimes raiſed up as high as heaven, by wonderful Deliverances and glorious Victories, anon caſt down even as l<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>we as hell,<note place="margin">As in the Weſt, <hi>&amp;c.</hi>
+               </note> by ſad <hi>breakings</hi> of our <hi>Armies</hi> and loſſe of our <hi>Strong-holds.</hi>
+            </p>
+            <p>Surely <hi>our ſouls have been melted becauſe of trouble.</hi> Our <hi>hopes</hi> have been melted, and our <hi>hearts</hi> have been melted. Oh how oft have I ſeen paleneſſe in mens faces, the very ſhadow of death upon mens countenances I how oft have I ſeen men with their hands upon their loyns, while fear hath taken hold upon them, and ſorrow, a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> pain upon a woman in travel? Have we not been in the day of ſad tidings from the Weſt, and other places in the Kingdom,<note place="margin">Verſ. 27.</note> 
+               <hi>like drunken men</hi> full of the fury
+<pb n="4" facs="tcp:113436:7"/>of the Lord, and rebukes of our God, <hi>reeling to and fro</hi> in our ſpirits, and <hi>ſtaggering</hi> in our Councels; <hi>at our wits end: Par<g ref="char:EOLhyphen"/>liament</hi> at their wits end, and <hi>Citie</hi> at their wits end, and <hi>Ar<g ref="char:EOLhyphen"/>mies</hi> at their wits end;<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> 
+               <hi>All their wiſdom ſwallowed up,</hi> as the Hebrew ſignifies; nonpluſt and loſt, not knowing what to do next; unleſſe it were, with the Mariners in my Text (for the moſt part the profaneſt of men) to go and <hi>cry to God in our trou<g ref="char:EOLhyphen"/>ble;</hi>
+               <note place="margin">Verſ 28.</note> betake our ſelves to our <hi>faſting</hi> and <hi>prayers;</hi> when God hath ſhewed himſelf eaſie to be intreated,<note place="margin">2 King. 20.12.</note> very gracious at the voice of our cry, <hi>and hath brought us out of theſe distreſſes</hi> and ſtraits wherein were, <hi>calming the ſtorms,</hi> and <hi>stilling the waves,</hi> the <hi>pride</hi> and <hi>rage,</hi>
+               <note place="margin">Verſe 30.</note>the <hi>power</hi> and <hi>policie</hi> of our devouring Adver<g ref="char:EOLhyphen"/>ſaries.</p>
+            <p>Thus hath the Lord done, as often heretofore, ſo now won<g ref="char:EOLhyphen"/>derfully of late at <hi>Dartmouth</hi> and <hi>Plymouth,</hi> at <hi>Hereford,</hi> at <hi>Belvoyre,</hi> and at <hi>Chester,</hi> the Wonder of mercy which we this day celebrate.</p>
+            <p>Thus you ſee if I ſhould pitch upon the <hi>Deliverance</hi> it ſelf, here would be a foundation upon which we might build a Diſ<g ref="char:EOLhyphen"/>courſe not unſeaſonable, or unſutable to the work of the day.</p>
+            <p>But it is not the <hi>Deliverance</hi> it ſelf, but the <hi>Return,</hi> which hath called out my thoughts, and now humbly calls for your attention.</p>
+            <p>And this <hi>Return</hi> is Twofold:</p>
+            <list>
+               <item>1. What they do: <hi>Then are they glad,</hi> &amp;c.</item>
+               <item>2. What they ſhould do: <hi>O that men would praiſe the Lord,</hi> &amp;c.</item>
+            </list>
+            <p>And to hold you in the porch no longer, though many Ob<g ref="char:EOLhyphen"/>ſervations might be raiſed from the words, I ſhall onely from the comparing of theſe two together, <hi>ſc. What men do</hi> when mercies and deliverances come in, <hi>They are glad;</hi> with what <hi>they ſhould do; O that men would praiſe the Lord for his goodneſſe,</hi> &amp;c. hold forth to you this Point of</p>
+            <p>
+               <hi>Doctrine:</hi>
+            </p>
+            <p>Every man in the world can be <hi>glad</hi> of mercies and deli<g ref="char:EOLhyphen"/>verances: but the duty that God expects, is, that men ſhould <hi>praiſe him for his mercies.</hi>
+            </p>
+            <p>
+               <hi>Then are they glad:</hi> I, but that will not ſerve the turn; it is
+<pb n="5" facs="tcp:113436:7"/>a Return of an high nature which God looks for: <hi>Oh that men would praiſe the Lord for his goodneſſe,</hi> &amp;c.</p>
+            <p>Or thus, if you pleaſe.</p>
+            <p>There is a great difference between <hi>Gladneſſe</hi> and <hi>Thankful<g ref="char:EOLhyphen"/>neſſe.</hi>
+            </p>
+            <p>It is one thing to be <hi>glad of</hi> a mercy or deliverance; it is another thing to be <hi>thankful for</hi> it.</p>
+            <p>What that <hi>difference</hi> is, and wherein it doth conſiſt, is all I intend to do upon the Doctrinal part of this Truth.</p>
+            <p>They differ in theſe four things<g ref="char:punc">▪</g> 
+               <hi>ſc.</hi> in reſpect of their</p>
+            <list>
+               <item>1. <hi>Nature.</hi>
+                  <note place="margin">The difference between Glad<g ref="char:EOLhyphen"/>neſſe and Thankfulneſſe</note>
+               </item>
+               <item>2. <hi>Riſe</hi> or <hi>ground.</hi>
+               </item>
+               <item>3. <hi>Duration.</hi>
+               </item>
+               <item>4. <hi>Operation.</hi>
+               </item>
+            </list>
+            <p>
+               <note place="margin">1. In their Nature.</note>Firſt, <hi>Gladneſſe</hi> and <hi>Thankfulneſſe</hi> differ in their <hi>Nature.</hi> Gladneſſe or Joy is but <hi>a natural affection.</hi> Some of the Sto<g ref="char:EOLhyphen"/>ick Philoſophers have defined or deſcribed it to be <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<note place="margin">
+                  <hi>Chryſippus</hi> and other Stoicks.</note> 
+               <hi>Elatio animi propter aliquid quod optandum eſſe videatur;</hi> it is the <hi>lifting</hi> up, or <hi>widening,</hi> or <hi>enlargement</hi> of the heart upon the coming in of any ſutable and deſirable good. And it is found not onely in<note n="*" place="margin">Pſal. 105.38. Lam. 1.21.</note> 
+               <hi>natural men,</hi> but even in the <hi>bruit creatures;</hi> even theſe, you ſee, do expreſſe in their way, a great deal of <hi>gladneſſe</hi> and <hi>contentment</hi> when they meet with that which is ſutable to their natures and diſpoſitions.</p>
+            <p>But now <hi>Thankfulneſſe,</hi> which is here commended, is a <hi>di<g ref="char:EOLhyphen"/>vine grace wrought in the ſoul by the Spirit of God, whereby the heart is drawn out towards God in gracious and holy deſires and endeavours to praiſe and exalt the Lord, who is the Author and Donor of the Mercie,</hi> as here it is expreſſed by this chiefeſt and higheſt <hi>act</hi> of Thankfulneſſe: Oh that men would <hi>praiſe the Lord,</hi> &amp;c. Let them <hi>exalt him,</hi> &amp;c.</p>
+            <p>And therefore <hi>this</hi> is to be found onely in the <hi>Saints:</hi>
+               <note place="margin">Pſal. 33.1.</note> 
+               <hi>Re<g ref="char:EOLhyphen"/>joyce in the Lord, ye righteous; for praiſe is comely for the upright.</hi>
+            </p>
+            <p>
+               <hi>Let the Saints be joyful in glory;</hi>
+               <note place="margin">Pſal. 149.5, 6.</note> 
+               <hi>let them ſing aloud upon their beds: let the high praiſes of God be in their mouthes,</hi> &amp;c. they be the
+<pb n="6" facs="tcp:113436:8"/>
+               <hi>Righteous</hi> onely, the <hi>upright,</hi> the <hi>Saints,</hi> in whoſe boſoms this grace dwells, and who can manage this Spiritual ſervice and duty of <hi>rejoycing</hi> and <hi>praiſing the Lord</hi> in a right manner.</p>
+            <p>Indeed the holy Pſalmiſt doth often expreſſe the workings of his heart upon the receipt of great deliverances and mercies, under the notion of <hi>gladneſſe,</hi> all over the Pſalms: but you are to take it as a Synonymon, or t'other expreſſion of <hi>thankful<g ref="char:EOLhyphen"/>neſſe;</hi> not a meer ſtirring of natural joy and complacency in and for deliverances and mercies; but the Spiritual movings and ſparkling of his aff<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ction towards God; in witneſſe whereof, you ſhall never ſinde that notion ſtand <hi>ſingle,</hi> but (like the<note n="*" place="margin">1 Cor. 6.17.</note> Spirit of the holy man himſelf) <hi>joyned unto the Lord,</hi> either as the <hi>Author</hi> or as the <hi>Object</hi> of his Gladneſſe.</p>
+            <p>
+               <hi>I will be glad and rejoyce in thee.</hi>
+               <note place="margin">Pſal. 9.2.</note> And</p>
+            <p>
+               <hi>Be glad in the Lord,</hi>
+               <note place="margin">Pſal. 32.11.</note> 
+               <hi>ye righteous.</hi> And</p>
+            <p>
+               <hi>Thou Lord hast made me glad</hi> through thy work,<note place="margin">Pſal. 92.4.</note> 
+               <hi>&amp;c.</hi> to ſhew that his <hi>gladneſſe</hi> was ſanctified and ſpiritualized into the <hi>grace</hi> of <hi>Thankfulneſſe.</hi>
+            </p>
+            <p>And indeed <hi>Grace</hi> is nothing elſe but the natural affection <hi>baptized</hi> (as I may ſo ſay) and <hi>regenerated</hi> by the <hi>holy Ghost</hi> and the <hi>Blood of Christ, faced</hi> and <hi>pointed</hi> upon God as its pro<g ref="char:EOLhyphen"/>per and higheſt <hi>object. Set your affection on things above, not on things on the earth.</hi>
+               <note place="margin">Coloſſ. 3.2.</note> Set, and Set not: the <hi>affection</hi> is not chan<g ref="char:EOLhyphen"/>ged in the <hi>matter</hi> of it, but in the <hi>object.</hi>
+            </p>
+            <p>So natural <hi>ſorrow</hi> and <hi>grief, ſpiritualized</hi> and ſet upon the right <hi>object, ſc.</hi> upon an<note n="*" place="margin">Mich. 7.9.</note> 
+               <hi>offended God,</hi> is the grace of<note n="*" place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Cor. 7.9.</note> 
+               <hi>Repen<g ref="char:EOLhyphen"/>tance.</hi> And <hi>Anger</hi> ſanct fied and faced upon Gods diſhonour, is <hi>Zeal.</hi> And <hi>Love fired</hi> with a <hi>flame</hi> from Chriſt, and carried up in that flame <hi>to Christ,</hi> is no longer the affection, but the <hi>grace of Love; &amp; ſic in caet.</hi> And thus natural <hi>joy</hi> and <hi>gladneſſe</hi> hea<g ref="char:EOLhyphen"/>venlized and ſet upon God,<note place="margin">2 Joh. 4.19.</note> is the <hi>grace</hi> of <hi>Thankfulneſſe.</hi>
+            </p>
+            <p>And this is the firſt difference: Gladneſſe or Joy is but a natural affection Common to good and bad, to man and beaſt; but Thankfulneſſe is that affection ſprinkled with the Blood of Chriſt, proper onely to the Saints, becauſe (like the Saint himſelf) it is made <hi>partaker of the divine Nature.</hi>
+               <note place="margin">2 Pet. 1.4.</note>
+            </p>
+            <p>Secondly, they differ in their <hi>Riſe</hi> or <hi>Ground.</hi>
+            </p>
+            <pb n="7" facs="tcp:113436:8"/>
+            <p>
+               <note place="margin">Second diffe<g ref="char:EOLhyphen"/>rence, Riſe or Ground.</note>The Riſe or Ground of <hi>Gladneſſe</hi> (as it is a meer natural affe<g ref="char:EOLhyphen"/>ction) is meerly the <hi>poſſ ſſion of ſome ſutable deſirable Good which comes in,</hi> whether <hi>National,</hi> or <hi>Domeſtick,</hi> or <hi>Perſonal;</hi> toge<g ref="char:EOLhyphen"/>ther with thoſe natural fruits and improvements which ariſe and grow upon it. As here in the Text, <hi>Then are they glad;</hi> what is the <hi>Riſe? Becauſe they b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> quiet<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> they are now out of thoſe fears and dangers which made their hearts work as tem<g ref="char:EOLhyphen"/>peſtuouſſy as the Sea it ſelf. <hi>Safety</hi> and <hi>rest</hi> are the ground of their joy: <hi>glad,</hi> the ſtorm is over and they ſafe in the Haven.</p>
+            <p>And ſo you may proportion it in your thoughts in other deliverances and mercies National or Private.</p>
+            <p>
+               <hi>Gladneſſe</hi> riſeth not higher then the bulk and body of the Good it ſelf; as the rich fool in the Goſpel lookt upon his <hi>heap of wealth,</hi> and <hi>glads</hi> his ſoul in it, and in the advantages he promiſeth himſelf from it:</p>
+            <p>
+               <hi>Soul, here are goods l<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>id up for many yeers;</hi>
+               <note place="margin">Luke 12.19.</note> he ſhall need to take no more care or thought as long as he lives; <hi>take thine eaſe, eat, drink and be merrie.</hi>
+            </p>
+            <p>
+               <note place="margin">The Grounds of Thankful<g ref="char:EOLhyphen"/>neſſe.</note>But now the <hi>Grounds</hi> and <hi>Riſe</hi> of <hi>Thankfulneſſe</hi> they are of a more generous and divine Nature; ſuch as theſe:</p>
+            <p>
+               <note place="margin">1. A Spiritual Title.</note>Firſt, a <hi>Spiritual</hi> and <hi>Divine Right</hi> to mercies; a <hi>Scripture<g ref="char:EOLhyphen"/>title.</hi> What is that? Why the Saints have</p>
+            <p>Fi ſt, a Right of <hi>Sonſhip.</hi> The wicked have a Right to what they have, not onely a <hi>civil right</hi> before <hi>men,</hi> but a <hi>divine right</hi> b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fore God; but it is but a Right of <hi>Creation;</hi> they have a right <hi>To the Creatures,</hi> but it is but a right <hi>Of the Creatures:</hi> But now th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ints have a right of <hi>Sonſhip; If children,</hi>
+               <note place="margin">Rom. 8.17.</note> 
+               <hi>then heirs of God, and joynt heirs with Christ.</hi> Whatever mercy or deliverance they have, it is part of their <hi>childes portion:</hi> though they are not <hi>joynt-purchaſers,</hi> yet they are <hi>joynt-heirs</hi> with Jeſus Chriſt: they have all by inheritance:<note place="margin">Heb. 1.2.</note> as Chriſt is <hi>Heir of all things;</hi> ſo they in him;</p>
+            <p>
+               <hi>All is you<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, and you are Chriſts; and Christ is Gods.</hi>
+               <note place="margin">1 Cor. 3.22, 23.</note>
+            </p>
+            <p>And thus <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eing Children and Heirs, they have a</p>
+            <p>Seco<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d Right, and that is a Right of <hi>Promiſe</hi> or <hi>Covenant;</hi> and therefore Believers are call'd <hi>The children of promiſe,</hi>
+               <note place="margin">Rom. 9.8.</note> becauſe they be both<note n="a" place="margin">2 Pet. 1.4.</note> 
+               <hi>begotten</hi> and<note n="b" place="margin">1 Tim. 4.8.</note> 
+               <hi>m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>int<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>in'd</hi> by <hi>promiſe:</hi> whatever they have, they have by promiſe: <hi>Godlineſſe is profitable for all
+<pb n="8" facs="tcp:113436:9"/>things, having the promiſe of the life that now is, and that which is to come.</hi> Others are fed out of the <hi>Common basket</hi> of <hi>Provi<g ref="char:EOLhyphen"/>dence;</hi> they are fed out of the <hi>Ark of the Covenant,</hi> which is the great <hi>List of the promiſes.</hi> Every childe of God, be he never ſo poor, is ſerved in <hi>Plate: The words of the Lord are pure words, as Silver tried in a furnace of earth.</hi> He ſpeaks of the <hi>word of promiſe.</hi>
+               <note place="margin">Pſal. 12.6.</note> So that if it be but <hi>bread</hi> and <hi>water,</hi> yet it is ſer<g ref="char:EOLhyphen"/>ved in to a childe of God in the <hi>ſilver</hi> and <hi>golden</hi> veſſels of the <hi>Promiſes:</hi> And this affects them more then all the bulk and heap of mercies and comforts which they do poſſeſſe, or that worldlings do poſſeſſe.</p>
+            <p>
+               <hi>Thou haſt put more gladneſſe into my heart then in the time that their corn and their wine encreaſed.</hi>
+               <note place="margin">Pſal. 4.7.</note> How? Why, by the ſhines of his face and favour, as Verſ. 7.</p>
+            <p>This is the Riſe of a gracious Joy and Thankfulneſſe, That what he hath, he hath not onely by <hi>Gods leave,</hi> but with <hi>Gods love;</hi> not by <hi>Creatureſhip</hi> onely, but by <hi>Sonſhip;</hi> not by <hi>pro<g ref="char:EOLhyphen"/>vidence</hi> onely, but by <hi>promiſe.</hi> With the men of the world, the <hi>Principal</hi> is more then the <hi>Interest:</hi> but every childe of God accounts his <hi>Interest</hi> more then the <hi>Principal.</hi> Therefore you ſhall finde the Church glorying in this, That all her de<g ref="char:EOLhyphen"/>liverances and mercies are <hi>Covenant-mercies.</hi> If God deſtroy her enemies, ſhe looks upon it as a fruit of the <hi>Covenant.</hi>
+            </p>
+            <p>
+               <hi>He is the Lord our God; his judgements are in all the world.</hi>
+            </p>
+            <p>She triumphs in the execution of Gods <hi>righteous judgements</hi> upon the enemies of the Church;<note place="margin">Pſal. 105.7.</note> but upon what ground? It follows,</p>
+            <p>
+               <hi>He hath remembred his Covenant for ever,</hi> &amp;c. It was <hi>a deli<g ref="char:EOLhyphen"/>verance</hi> of <hi>Promiſe</hi> as well as of <hi>Providence; a Covenant-mer<g ref="char:EOLhyphen"/>cie;</hi> in <hi>that</hi> ſhe rejoyceth:<note place="margin">Verſ. 8.</note> yea, if it be but bread and water, as I ſaid before, ſhe looks in what it is ſerved.</p>
+            <p>
+               <hi>He hath given meat to them that fear him:</hi> Why?</p>
+            <p>
+               <hi>He will be ever mindful of his Covenant.</hi>
+               <note place="margin">Pſal. 111.5.</note>
+            </p>
+            <p>Her meat (how courſe ſoever) was ſerved in in the great ſilver <hi>Cha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ger</hi> of the <hi>Covenant.</hi> And this was the riſe of Thankfulneſſe in the Churches <hi>Grace;</hi> q. d. <hi>Bleſſed be God that hath fed me with bread of promiſe, that hath commanded his Cove<g ref="char:EOLhyphen"/>nant to bring me in proviſion.</hi>
+            </p>
+            <pb n="9" facs="tcp:113436:9"/>
+            <p>And ſo for her deliverances and redemption from enemies temporal and eternal. <hi>He ſent Redemption to his people,</hi>
+               <note place="margin">Verſe 9.</note> 
+               <hi>he hath commanded his Covenant for ever: holy and reverend is his Name.</hi> It was a <hi>Covenant-victorie</hi> and <hi>Redemption,</hi> and for this ſhe bows her head, and <hi>adores the Name of the Lord.</hi>
+            </p>
+            <p>Now carnal people never look after theſe things, they be dry and empty notions to them; give them meat, ſo it be fat and dainty; give them Deliverances and Victories, ſo they be full and gallant; be it by <hi>promiſe</hi> or <hi>providence,</hi> come they in by <hi>ſonſhip</hi> or <hi>creatureſhip;</hi> be it the <hi>Covenant</hi> that helps them, or <hi>Fortune,</hi> it is all one, they know no difference; and therefore riſe no higher in their joy and gladneſſe then the poſſeſſion of their deſirable good things. This is the firſt Riſe.</p>
+            <p>
+               <note place="margin">Second Ground, Re<g ref="char:EOLhyphen"/>turn of Prayer.</note>A Second Riſe of Thankfulneſſe is, The <hi>Return of Prayer.</hi>
+            </p>
+            <p>The children of God, when they have pray'd, do not forget their prayers, as carnal people do: but when they have prayed, they look after their Prayers.<note place="margin">Pſal. 85.8.</note> 
+               <hi>I will hearken what God the Lord will ſpeak,</hi> &amp;c. when he had done <hi>praying,</hi> he begins <hi>hearkning.</hi> And ſo again, <hi>In the morning will I direct my prayer unto thee,</hi>
+               <note place="margin">Pſal. 5.3.</note> 
+               <hi>and I will look up.</hi> A childe of God looks after his prayers, and he knows them when he ſees them again, and ſays, <q rend="margQuotes">
+                  <hi>Oh here comes the anſwer of ſuch a prayer, the return of ſuch a day of Humiliation:</hi>
+               </q> and this affects his heart, and this raiſeth up his ſoul in the <hi>love</hi> and <hi>praiſes</hi> of God.<note place="margin">Pſal. 116.1.</note> 
+               <hi>I love the Lord, becauſe he hath heard my voice and my ſupplication.</hi> Yea, and for this he calls in help to this great work of praiſing God (as the diſciples beckoned to their fellows to come and help them when they had taken ſuch a <hi>great draught of fiſhes,</hi> that their ſhip began to <hi>ſink</hi> again: ſo I ſay the Pſalmiſt upon a <hi>great draught of mercles,</hi> which even <hi>ſinks</hi> him again with the weight of them, calls in the Saints to his help: <hi>Come neer, all ye that fear God,</hi>
+               <note place="margin">Pſal. 66.16.</note> 
+               <hi>and I will tell you what he hath done for my ſoul.</hi> Why, what was it? He tells you: <hi>I cried unto him with my mouth,</hi>
+               <note place="margin">Verſ. 17.</note> 
+               <hi>and he was extolled with my tongue.</hi> A ſpeedie return of Prayer; <hi>q.d.</hi> I kept <hi>a day of prayer,</hi> wherein I ſought him for ſuch ahd ſuch mercies and de<g ref="char:EOLhyphen"/>ſiverances, and anon after he gave me occaſion to keep <hi>a day of Thanksgiving</hi> for being found of me: and this endears his heart to God more then the mercy it ſelf, whatever it was.</p>
+            <pb n="10" facs="tcp:113436:10"/>
+            <p>
+               <hi>Bleſſed be God that hath not turned away my prayer,</hi>
+               <note place="margin">Verſ. 20.</note> 
+               <hi>nor his mer<g ref="char:EOLhyphen"/>cie from me.</hi>
+            </p>
+            <p>This is the ſecond Riſe.</p>
+            <p>A third Riſe or Ground of <hi>Thankfulneſſe,</hi> whereby it differs from meer natural <hi>Gladneſſe,</hi>
+               <note place="margin">A third Ground, Spiri<g ref="char:EOLhyphen"/>tual advan<g ref="char:EOLhyphen"/>tages.</note> is</p>
+            <p>
+               <hi>Spiritual Advantages.</hi>
+            </p>
+            <p>If National and Publike Mercies and Deliverances, the Saints eye the <hi>Spiritual part</hi> of them.</p>
+            <p>
+               <hi>Surely ſalvation is nigh unto them that fear him.</hi>
+               <note place="margin">Pſal. 85.9.</note> When we were nigh to <hi>periſhing,</hi> our God was nigh to <hi>ſave;</hi> to ſave us in ſuch a <hi>Battel</hi> and in ſuch a <hi>danger;</hi> to give up ſuch and ſuch a <hi>ſtrong-hold</hi> out of which the enemies did vex and plague us, becauſe he had a people among us that <hi>feared his Name.</hi> I, but now there was a Spiritual part in this Deliverance, and that follows:</p>
+            <p>
+               <hi>That glory may dwell in our Land:</hi> What is the glory of a people, but the Ordinances of God? <hi>The glory is departed from Iſrael,</hi> cried that dying Saint when <hi>the Ark of God was taken:</hi>
+               <note place="margin">1 Sam 4.12.</note> why ſo now, the Church looks upon the <hi>ſocuritie</hi> and <hi>improvement</hi> of the Ordinances of God, as the fruit of this deliverance, and that is the ground of her triumph.</p>
+            <p>And ſo if they be <hi>perſonal</hi> mercies and deliverances, the people of. God enquire what portion will fall to the <hi>ſouls ſhare,</hi> what improvement for <hi>grace</hi> they can finde in their mercies. <hi>The living, the living ſhall praiſe thee, as I do this day;</hi> ſo ſings <hi>Hezekiah.</hi>
+            </p>
+            <p>
+               <hi>Have mercie upon me,</hi>
+               <note place="margin">Iſa. 38.19.</note> 
+               <hi>O Lord, conſider my trouble which I ſuffer,</hi>
+               <note place="margin">Pſal. 9.13,</note> &amp;c.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="14"/> 
+               <hi>That I may ſhew forth all thy praiſe in the gates of the daughter of Sion;</hi> ſo prays <hi>David:</hi> both, ſingle out the <hi>Spiritual part</hi> of the <hi>Deliverance:</hi> in the mouth of it, they finde food for the grace of Thankfulneſſe to feed on: <hi>That I may ſhew forth thy praiſes;</hi> and that they make the <hi>ground</hi> or <hi>riſe</hi> of their rejoy<g ref="char:EOLhyphen"/>cing. Yea, the Prophet <hi>David</hi> is ſo intent upon the matter, that whereas with carnal hearts <hi>the lean kine eat up the fat,</hi> the <hi>earthly</hi> part of a mercy devours the <hi>heavenly</hi> and <hi>ſpiritual;</hi> with this man after Gods own heart (and if ever he was ſo, it was in this) the <hi>ſpiritual</hi> part devours and ſwallows up the <hi>earthly,</hi> where he doth encourage his ſoul:<note place="margin">Pſal. 42.1.</note> 
+               <hi>Hope thou in God; for I
+<pb n="11" facs="tcp:113436:10"/>ſhall yet praiſe him,</hi> &amp;c. He was waiting for a <hi>Deliverance</hi> from the perſecutions of <hi>bloody Saul,</hi> and he hath <hi>forgot</hi> and <hi>lost</hi> both <hi>it</hi> and <hi>himſelf</hi> in the <hi>heavenly-ſoul-part</hi> of the mercy: he ſaw it would be <hi>fuel</hi> for the <hi>grace</hi> of <hi>love</hi> and <hi>thank fulneſſe,</hi> and that ſo takes up all his thoughts, that he can ſpeak nothing elſe but <hi>praiſe, praiſe:</hi> not, I ſhall yet be <hi>delivered:</hi> but, <hi>I ſhall yet praiſe him,</hi> &amp;c. Oh happie Loſſe indeed I to loſe Earth in Heaven I to loſe the Creature in God I loſe the mercy of God in the God of mercy I Surely he that ſo loſeth a mercy, findes it with infinite advantage.</p>
+            <p>I might inſtance in more particular graces; but I muſt leave much to your own enlargement.</p>
+            <p>But there is yet an <hi>higher Riſe</hi> then all theſe of the Saints</p>
+            <p>Thankfulneſſe for Mercies and Deliverances; and that</p>
+            <p>Fourthly, is, that <hi>God is exalted.</hi>
+               <note place="margin">The fourth Riſe, Gods exaltation. Exod. 15.</note>
+            </p>
+            <p>Thus if you will peruſe that <hi>ſong of Moſes, Exod.</hi> 15, from the firſt Verſe and ſo forward, you ſhall finde that which moſt affects him and the children of <hi>Iſrael,</hi> in the drowning of <hi>Pharroh</hi> and the <hi>Egyptians</hi> in the <hi>Red-ſea,</hi> was not ſo much their being freed from the fear of the <hi>Egyptians</hi> purſuit, as that thereby God was exalted: I will ſing unto the Lord;<note place="margin">Verſ. 1.</note> 
+               <hi>for He hath triumphed gloriouſly.</hi>
+            </p>
+            <p>
+               <hi>The Lord is my ſtrength and my ſong, my fathers God;</hi>
+               <note place="margin">Verſ. 2.</note> 
+               <hi>and I will praiſe him. Pharaoh</hi>'s chariots and his hoſt hath <hi>He</hi> caſt into the Sea: not ſo much that it was done, as that <hi>God</hi> did it.</p>
+            <p>
+               <hi>Thy right hand, O Lord, is become glorious in power:</hi>
+               <note place="margin">Verſ. 6.</note> 
+               <hi>thy right hand, O Lord, hath daſhed the enemies in pieces.</hi>
+            </p>
+            <p>
+               <hi>And in the greatneſſe of thine excellency thou haſt overthrown them that roſe up againſt thee.</hi>
+               <note place="margin">Verſ. 7.</note>
+            </p>
+            <p>
+               <hi>The blaſt of thy noſtrils,</hi> &amp;c.<note place="margin">Verſ. 8.</note>
+            </p>
+            <p>
+               <hi>Thou didſt blowe with thy winde,</hi> &amp;c.<note place="margin">Verſ. 10.</note>
+            </p>
+            <p>
+               <hi>Who is like unto thee, O Lord, among the gods!</hi> And <hi>The Lord ſhall reign for ever and ever.</hi>
+               <note place="margin">Verſ. 18.</note>
+            </p>
+            <p>Thus they <hi>lift up God,</hi> becauſe he hath <hi>lifted up himſelf.</hi> And ſo the Saints in the <hi>Revelation,</hi> when they repeat this Song (for it is ſaid,<note place="margin">Rev. 15.3.</note> 
+               <hi>They ſang the ſong of Moſes the Servant of the Lord</hi>) they <hi>harp</hi> upon this ſtring, <hi>Great and marvellous are thy works,</hi>
+               <note place="margin">Verſ. 4.</note> 
+               <hi>Lord God Almighty: who ſhall not fear thee, O Lord, and glorifio thy Name?</hi>
+            </p>
+            <pb n="12" facs="tcp:113436:11"/>
+            <p>In a word, you have three Pſalms almoſt together; <hi>Pſalm</hi> 93, 97, and 99: what the Victories and Deliverances were, I cannot tell you; but this is the triumph in all, <hi>The Lord reigneth.</hi>
+            </p>
+            <p>This is the laſt and the higheſt <hi>Riſe</hi> of pure Thankfulneſſe and Praiſe, That God ſets himſelf up above his enemies: That the Lord gets glory and greatneſſe to his own Name:</p>
+            <p>
+               <hi>Be thou exalted, O Lord, in thine own ſtrength; ſo will we ſing and praiſe thy power.</hi>
+               <note place="margin">Pſal. 21.13.</note>
+            </p>
+            <p>I come now to the third difference between Gladneſſe and Thankfulneſſe, which is this;</p>
+            <p>They differ in their <hi>Duration.</hi>
+               <note place="margin">Third Diffe<g ref="char:EOLhyphen"/>rence, Durati<g ref="char:EOLhyphen"/>on.</note>
+            </p>
+            <p>
+               <hi>Gladneſſe</hi> for the moſt part is but a <hi>preſent</hi> impetus <hi>of ſpirit,</hi> a ſudden impreſſion upon the firſt arrival of <hi>un-expected,</hi> or <hi>long-<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>xpected deſires,</hi> overſpreads the heart; but ſtays no longer then the ſenſe of the good rejoyced in is freſh upon the ſpirit.</p>
+            <p>As on the contrary,<note place="margin">Nullum violen<g ref="char:EOLhyphen"/>tum eſt perpetu<g ref="char:EOLhyphen"/>um.</note> you ſee there be ſome ſudden guſts and irruptions of grief which like a <hi>land-flood</hi> lays all under wa<g ref="char:EOLhyphen"/>ter, but are quickly gone.</p>
+            <p>Mercies and Deliverances to a carnal heart are like <hi>flowers</hi> that upon their firſt cutting ſmell very ſweet, and they are put then in the boſom: or like <hi>Tulips,</hi> which upon the firſt ga<g ref="char:EOLhyphen"/>thering are very betutiful and delightful to the eye, and ſerve a day or two to diſcourſe on; but anon after, they grow ſtale, and out they go to the <hi>dung-hill.</hi>
+            </p>
+            <p>The holy Ghoſt hath compared this kinde of Gladneſſe to the crackling of thorns: <hi>As the crackling of thorns under a pot,</hi>
+               <note place="margin">Eccleſ. 7.6.</note> 
+               <hi>ſo is the laughter of a fool.</hi> I think I do carnal people no wrong in expounding this Text over their joy; for in Scri<g ref="char:EOLhyphen"/>pture-ſenſe, all <hi>natural men are fools,</hi> and their gladneſſe and joy ſhews them to be ſo; there is no <hi>ſolidneſſe</hi> nor <hi>duration</hi> in it; it is like the <hi>crackling of thorns, is makes a great noiſe, but is quickly out.</hi>
+            </p>
+            <p>But now Thankfulneſſe or Spiritual rejoycing is longer li<g ref="char:EOLhyphen"/>ved by far; and therefore you ſhall finde God charging the <hi>memories</hi> of his people with the keeping of all the paſſages
+<pb n="31" facs="tcp:113436:11"/>of his love and providence;<note place="margin">Deut. 8.2.</note> 
+               <hi>Thou ſhalt remember all the way wherein the Lord thy God led thee theſe fourty yeers in the wilder<g ref="char:EOLhyphen"/>neſſe,</hi> a great work certainly, we ſee it is no eaſie matter to remember all the way wherein the Lord hath led us theſe <hi>four yeers;</hi> what is it to remember the mercies of <hi>fourtie yeers!</hi> yet as great as it is, as God doth charge it upon his people, ſo <hi>David</hi> chargeth himſelf with it:</p>
+            <p>
+               <hi>Bleſſe the Lord, O my ſoul, and forget not all his benefits.</hi>
+            </p>
+            <p>One ingredient into Thankfulneſſe, is <hi>a good memory,</hi>
+               <note place="margin">Pſal. 103.2.</note> which like the Ark muſt preſerve the <hi>rod,</hi> and <hi>the pot of manna,</hi> and the <hi>Law;</hi> the <hi>Fatherly Corrections,</hi> the <hi>Miraculous Proviſions,</hi> and the <hi>glorious Ordinances</hi> where with God bleſſeth his people.</p>
+            <p>And it ſeems <hi>David</hi> ſtudied his charge ſo well, that in anſwer thereunto he undertakes with God: I will ſing praiſe unto my God <hi>while I have my being.</hi>
+               <note place="margin">Pſal. 104.33.</note> his Thankfulneſſe is as long lived as himſelf, it knew no other termination then life it ſelf: yea, <hi>life</hi> muſt not bound his praiſe; <hi>I will praiſe thee for ever;</hi>
+               <note place="margin">Pſal. 52.9.</note> that is his engagement to God; and if that be too narrow, he will put an <hi>ever</hi> at the top of that <hi>ever;</hi>
+               <note place="margin">Pſal. 145.1.</note> 
+               <hi>I will bleſſe thy Name for ever and ever;</hi> nothing ſhort of eternity ſhall terminate his Thankfulneſſe: the Reaſon is, becauſe (as you have ſeen) Thank<g ref="char:EOLhyphen"/>fulneſſe takes its <hi>Riſe</hi> from <hi>durable</hi> and <hi>unchangeable</hi> grounds; the <hi>Covenant</hi> of God, and his <hi>glory,</hi> which like himſelf are <hi>eter<g ref="char:EOLhyphen"/>nal,</hi> and <hi>immutable: He hath commanded his Covenant for ever: holy and reverend is his Name,</hi> and therefore it ſelf is unchange<g ref="char:EOLhyphen"/>able and eternal.</p>
+            <p>This ſhall ſuffice for the third; I come to the fourth Dif<g ref="char:EOLhyphen"/>ference.</p>
+            <p>They differ in their <hi>Operations</hi> or <hi>Returns.</hi>
+            </p>
+            <p>Truely as the <hi>Riſe,</hi>
+               <note place="margin">Fourth Diffe<g ref="char:EOLhyphen"/>rence, Opera<g ref="char:EOLhyphen"/>tions.</note> ſo the <hi>Operations</hi> of meer carnal <hi>joy</hi> and <hi>gladneſſe</hi> are <hi>lowe, earthly, ſenſual;</hi> like culinary fire or ſmoke, which ſeems to aſpire and aſcend up to <hi>heaven,</hi> or, the <hi>element of fire;</hi> but gets not above the <hi>firſt region</hi> of the air: or like a lazie thick fogg, which if it move upward a little, it falls pre<g ref="char:EOLhyphen"/>ſently down again with its own weight to the earth, from whence it aroſe: So it is with natural <hi>joy</hi> and <hi>gladneſſe:</hi> For,</p>
+            <p>Firſt, either it is bounded and terminated within it ſelf,<note place="margin">Carnal joy ſets up 1. Self.</note> whileſt upon the coming in of ſome deſired or deſirable good,
+<pb n="14" facs="tcp:113436:12"/>it doth hugg it ſelf,<note place="margin">Hab. 1.16.</note> and bleſſe it ſelf: <hi>It ſacrificeth to its own net, and burns incenſe to its own dragg; i.e.</hi> aſcribes to its own power, and policy, and wiſedom, what is done, like the Babylonian Ty<g ref="char:EOLhyphen"/>rant; <hi>By the multitude of my Charets am I come up to the height of the mountains, and the ſides of his Carmel,</hi> &amp;c. <hi>and I have digged and drunk water, and with the ſoles of my feet have I dried up all the Rivers of the beſieged places.</hi> Here is nothing to be heard but <hi>I,</hi> and <hi>mine;</hi> and ſo all the Returns are dedicated to <hi>ſelf:</hi> put on <hi>fine apparel,</hi> dreſſe as <hi>brave as the Sun,</hi> eat the fat, drink wine in bowls, dance to the inſtruments of Muſick, ſet open the Cellar-doors, drink ſo many <hi>hogs-heads empty,</hi> and their own <hi>full;</hi> this is an <hi>Oxford-day of Thanksgiving,</hi> and I would ſuch days were onely kept there; I would this were onely the <hi>Thanksgiving of Cavaliers.</hi>
+            </p>
+            <p>But ſecondly,<note place="margin">2. Inſtruments</note> if a carnal heart go out of it ſelf, it is not upward; it is but forward to the <hi>Creature:</hi> it looks no high<g ref="char:EOLhyphen"/>er then the <hi>ſecond cauſes;</hi> it eyes the Inſtruments, and cries up <hi>Commanders</hi> and <hi>Souldiers,</hi> and puts the <hi>bays</hi> and <hi>garland</hi> upon their heads; <hi>Saul hath ſlain his thouſands, and David his ten thouſands.</hi> God hath little or no ſhare in the triumph.</p>
+            <p>Or thirdly,<note place="margin">3. Reſts in du<g ref="char:EOLhyphen"/>ties.</note> if carnal Joy keep a day or <hi>Thanksgiving</hi> as the very Philiſtines did ſo much, when that ſtrong Gariſon, <hi>Sam<g ref="char:EOLhyphen"/>ſon,</hi> was ſurrendred up into their hands, and <hi>offered a great Sa<g ref="char:EOLhyphen"/>crifice to Dagon their god,</hi>
+               <note place="margin">Judg. 16.23.</note> &amp;c. I ſay, If Carnal joy go into the Temple, <hi>hear Sermons, ſing Pſalms,</hi> lift up the voice in <hi>Thanks<g ref="char:EOLhyphen"/>giving,</hi> in all theſe it gets no higher then the dutie. The <hi>dutie</hi> looks upon <hi>God,</hi> the <hi>heart</hi> doth not: or if God be <hi>propounded,</hi> God is not <hi>exalted: When ye fasted,</hi> &amp;c. <hi>did ye at all fast unto me,</hi>
+               <note place="margin">Zech. 7.5.</note> 
+               <hi>even unto me? And when ye did eat, and when ye did drink, did ye not eat to your ſelves, and drink to your ſelves?</hi> In <hi>fasting</hi> and <hi>feasting,</hi> that is, in days of <hi>Humiliation</hi> and in days of <hi>Thanksgiving,</hi> they reſted the in duty: <hi>ſelf</hi> was uppermoſt in both: <hi>God</hi> was the <hi>object</hi> of the duty indeed, but <hi>ſelf</hi> was the <hi>end: Ye did eat and drink to your ſelves.</hi>
+            </p>
+            <p>And when the <hi>dutie</hi> is done, <hi>all</hi> is done: the Faſting of car<g ref="char:EOLhyphen"/>nal people is but <hi>the holding downn the head like a bulruſh for a day,</hi> and their Thankſgivings are but the <hi>holdi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g up the head</hi> like a <hi>reed</hi> for a day.</p>
+            <pb n="15" facs="tcp:113436:12"/>
+            <p>Nothing outlives the <hi>day</hi> or the <hi>dutie.</hi> Publike Duties are are the <hi>end</hi> of the carnal mans rejoycing: they are but the <hi>Me<g ref="char:EOLhyphen"/>dium</hi> of the holy mans rejoycing, that ſerves to advance him for further and <hi>higher Returns.</hi>
+            </p>
+            <p>Springs, we ſay, will <hi>riſe</hi> as high as they <hi>fall;</hi> and ſo doth the Saints <hi>Thankfulneſſe:</hi> as it is a grace <hi>which comes down from heaven;</hi> ſo it is a grace that <hi>aſcendeth up</hi> back again <hi>to heaven,</hi>
+               <note place="margin">True Thank<g ref="char:EOLhyphen"/>fulneſſe works it ſelf out,</note> and carrieth up the ſoul with it thither: and that</p>
+            <p>
+               <note place="margin">1. In exalting God.</note>1. In high admirations and exaltations of God. <hi>I will extol thee, O Lord; for thou hast lifted me up:</hi> thou haſt <hi>lifted me</hi> up, and therefore I will <hi>lift thee</hi> up;<note place="margin">Pſal. 30.1.</note> and he calls in others to help him in this great work; <hi>O magnifie the Lord with me,</hi>
+               <note place="margin">Pſal. 34.3.</note> 
+               <hi>and let us exalt his Name together.</hi> And this is the duty the Pſalmiſt here commends to the ſons of men; <hi>O that men would praiſe the Lord: Let them exalt him alſo in the Congregation of the peo<g ref="char:EOLhyphen"/>ple, and praiſe him in the Aſſemblie of the Elders.</hi>
+            </p>
+            <p>He would have God more exalted, and man leſſe.</p>
+            <p>Secondly, it works heaven-ward and God-ward in <hi>holie prayer: David</hi> got ſafe to the <hi>Crown</hi> thorow all his wars,<note place="margin">2. In Prayer.</note> and troubles, and perſecutions, reſolves by way of <hi>Render,</hi>
+               <note place="margin">Pſal. 116.13.</note> 
+               <hi>I will call upon the Name of the Lord:</hi> and, to binde the Sacrifice with Cords to the horns of the Altar, he doubles the engage<g ref="char:EOLhyphen"/>ment upon his own ſoul, Verſ. 17. <hi>I will offer to thee the Sacri<g ref="char:EOLhyphen"/>fice of Thanksgiving, and call upon the Name of the Lord.</hi> One would have thought he might now have given over <hi>praying;</hi> God had put an end to his troubles, and he might put an end to his prayers: nay, but that is the note of an Hypocrite, to <hi>ceaſe praying</hi> when troubles <hi>ceaſe.</hi> What is the hope of the hypocrite? <hi>&amp;c. Will he always call upon God?</hi> No,<note place="margin">Job 27.10.</note> there be two times when the Hypocrite will not call upon God: Firſt, when troubles are <hi>too heavie:</hi> Secondly, when troubles are <hi>re<g ref="char:EOLhyphen"/>moved; deſpair</hi> will not ſuffer him to pray then, and <hi>lazineſſe</hi> will not let him pray now. With the truely-thankful it is other wiſe: as <hi>prayer begets deliverance;</hi> ſo <hi>deliverance begets prayer;</hi> and ſo he ſhews that it is not <hi>neceſſitie</hi> makes him pray onely, but <hi>love.</hi> Love to <hi>prayer,</hi> and love to the <hi>God of prayer.</hi>
+            </p>
+            <p>That is a third thing wherein his Thankfulneſſe operates,<note place="margin">3. In love.</note> 
+               <hi>ſc.
+<pb n="16" facs="tcp:113436:13"/>Love;</hi> it carries out the heart in exceeding love to God. <hi>I will love thee,</hi>
+               <note place="margin">Pſal. 18.1. Title.</note> 
+               <hi>O Lord my ſtrength,</hi> &amp;c. ſo ſings <hi>David, in the day that the Lord had delivered him from the hands of all his enemies, and from the hand of Saul.</hi> And this Love the Saints expreſſe in theſe three ways eſpecially:</p>
+            <p n="1">1. In labouring to <hi>know more of God:</hi> after God had done ſo many miracles and wonders for <hi>Iſrael, Moſes</hi> preſents God with this Petition:</p>
+            <p>
+               <hi>I beſeech thee ſhew me thy glory.</hi>
+               <note place="margin">Exod. 33.18.</note>
+            </p>
+            <p>He had ſeen much of the <hi>wonders of God;</hi> now his love is fired with deſires of ſeeing the <hi>God of theſe wonders.</hi> He would fain be acquainted with that God which did all thoſe wonders.</p>
+            <p n="2">2. In labouring to <hi>enjoy more of God,</hi> to have him for their God. <hi>Thou art great, and doeſt wondrous things:</hi> I, but that will not ſerve the turn:<note place="margin">Pſal. 86.10.</note> 
+               <hi>Teach me thy way, O Lord, unite my heart</hi> to thee to <hi>fear thy Name:</hi>
+               <note place="margin">Verſ. 11.</note> he would know the <hi>way to</hi> God, that he might enjoy more <hi>communion with</hi> God. <hi>
+                  <g ref="char:V">Ʋ</g>nite my heart,</hi> &amp;c. not the <hi>things of God,</hi> but <hi>God himſelf,</hi> will con<g ref="char:EOLhyphen"/>tent a thankful heart; as <hi>Luther</hi> profeſt to God when the <hi>Prin<g ref="char:EOLhyphen"/>ces</hi> and <hi>States</hi> of <hi>Germanie</hi> ſent him a whole Table full of Plate; <hi>Lord,</hi> ſaith he, <hi>thou ſhalt not turn me off with theſe things.</hi> A gracious heart could take little comfort in Victories and Deli<g ref="char:EOLhyphen"/>verances, and other comforts, unleſſe the God of thoſe Victo<g ref="char:EOLhyphen"/>ries and Comforts were his too.</p>
+            <p>And therefore thirdly, this love doth expreſſe it ſelf in glorying in God: So the Church in that <hi>Pſalm of Thanksgi<g ref="char:EOLhyphen"/>ving, Pſal.</hi> 48,<note place="margin">Pſal. 48.3, 4, 5, 6, 7, 12, 13.</note> when ſhe had told all the world the great Vi<g ref="char:EOLhyphen"/>ctories God had given by <hi>Land</hi> and <hi>Sea;</hi> how he had routed mighty <hi>Kings</hi> and <hi>Princes,</hi> and made them glad <hi>to betake them<g ref="char:EOLhyphen"/>ſelves to their heels;</hi> they came, and ſo went home again: af<g ref="char:EOLhyphen"/>ter ſhe had led the Spectator round about the <hi>Line of Commu<g ref="char:EOLhyphen"/>nication,</hi> and invited him to behold the <hi>beautie</hi> and <hi>ſtrength</hi> of her <hi>Towers</hi> and <hi>Fortifications;</hi> ſhe concludes the Pſalm with this <hi>triumph,</hi> as that which infinitely tranſcended all the reſt: <hi>This God is our God for ever and ever;</hi>
+               <note place="margin">Verſe 14.</note>
+            </p>
+            <p>The God that hath done all theſe wonders, is <hi>my</hi> God. She glories not ſo much in the <hi>Victories</hi> God had given her, as in <hi>in<g ref="char:EOLhyphen"/>terest</hi> in the God <hi>of thoſe Victories.</hi>
+            </p>
+            <pb n="17" facs="tcp:113436:13"/>
+            <p>Well, that is the third thing wherein Thankfulneſſe acts, <hi>Love</hi> to God. The</p>
+            <p>
+               <note place="margin">Fourthly, Self-denial.</note>Fourth is, <hi>Self-denial</hi> for Gods ſake: <hi>And after all this is come upon us, ſince our God hath puniſht us leſſe then our iniquities deſerve, and hath given us ſuch deliverance as this;</hi>
+               <note place="margin">Exra 9.13.14.</note> 
+               <hi>ſhould we again break thy Commandments?</hi> ſo argued thankful <hi>Ezra.</hi> I tell you, Sirs, there is more Thankfulneſſe in <hi>one act</hi> of <hi>Self-de<g ref="char:EOLhyphen"/>nial,</hi> then in <hi>twenty days of Thanksgiving.</hi>
+            </p>
+            <p>
+               <note place="margin">Fifthly, in Payment of Vows</note>Fifthly, true Thankfulneſſe works God-ward, <hi>in payment of vows: What ſhall I render,</hi> ſaith <hi>David? I will pay my vows.</hi> And again, verſ. 18, <hi>I will pay my vows;</hi> to ſhew he would be <hi>much,</hi> and <hi>watchful,</hi>
+               <note place="margin">Pſal. 116.14.</note> and <hi>exact</hi> in that <hi>Return</hi> of Thankful<g ref="char:EOLhyphen"/>neſſe: And doubtleſſe it is as <hi>proper</hi> a <hi>return</hi> as any; for all the mercies of God to his people, whether National or Perſonal, whether <hi>Victories</hi> or <hi>Supplies,</hi> they are all the <hi>making good of his Covenant to them,</hi> as I have ſhewed<note n="*" place="margin">
+                  <hi>Vide</hi> pag. 8.</note> before: <hi>He will ever be mindful of his Covenant;</hi> and therefore the ſutableſt Return that we can make, is the <hi>making good our Covenant to God;</hi> the payment of our Vows to him: <hi>Thy vows are upon me,</hi>
+               <note place="margin">Pſal. 56.12.</note> 
+               <hi>I will render praiſes eo thee.</hi>
+            </p>
+            <p>
+               <note place="margin">Sixthly, in Be<g ref="char:EOLhyphen"/>lieving.</note>Sixthly, <hi>in believing:</hi> Let God deliver a thankful heart, and it will truſt him another time: <hi>And Iſrael ſaw that great work which the Lord did upon the Egyptians,</hi>
+               <note place="margin">Exod. 14.31.</note> 
+               <hi>and the people believed the Lord, and his ſervant Moſes:</hi> that was a thankful Return indeed: a people or perſon cannot more honour God, then by believing on him. <hi>Abrabam was ſtrong in faith,</hi>
+               <note place="margin">Rom. 4.20.</note> 
+               <hi>giving glory to God.</hi> God did this great work upon the Egyptians, on pur<g ref="char:EOLhyphen"/>poſe that they might <hi>believe him ever after.</hi> The Pſalmiſt ob<g ref="char:EOLhyphen"/>ſerve it; <hi>Thou breakest the heads of the Dragons in the Waters;</hi>
+               <note place="margin">Pſal. 74.14.</note> 
+               <hi>Thou brakeſt the head of the Leviathan in pieces.</hi> Who was that <hi>Leviathan?</hi> who were theſe <hi>Dragons?</hi> Surely none other but <hi>Pharaoh</hi> and his <hi>Armie,</hi> as <hi>huge</hi> as the <hi>Leviathan,</hi> as <hi>fierce</hi> as <hi>Dragons:</hi> Oh they had <hi>ſtings</hi> in their <hi>heads;</hi> I, but God <hi>brake their heads,</hi> and <hi>quencht</hi> their <hi>ſtings</hi> in the waters: To what end? <hi>Thou gaveſt him to be meat to the people inhabiting in the wilderneſſe.</hi> What, did the Iſraelites powder up the carcaſes of theſe <hi>Leviathans</hi> and <hi>Dragons,</hi> the <hi>Egyptians,</hi> to ſerve them for Victuals while they kept <hi>Lent</hi> in the Wilderneſſe? No, he
+<pb n="18" facs="tcp:113436:14"/>gave them to be <hi>meat;</hi> not <hi>food</hi> for their <hi>bodies,</hi> but <hi>food</hi> for their <hi>faith;</hi> that as long as they ſhould travel in the wilder<g ref="char:EOLhyphen"/>neſſe, where they ſhould meet with innumerable multitudes of <hi>nonpluſſing</hi> oppoſitions and dangers, they might remember the <hi>Dragons</hi> and the <hi>Leviathan</hi> (as <hi>David</hi> after did the <hi>Lion</hi> and the <hi>Bear</hi>) and their faith might be <hi>ſtrengthned</hi> when it had fed well on the remembrance of that wonder of ſalvation. And ſo it was for the preſent; <hi>Iſrael ſaw that great work which the Lord did upon the Egyptians; and they believed the Lord and his ſervant Moſes:</hi> a bleſſed <hi>frame of heart</hi> and <hi>fruit of Thank<g ref="char:EOLhyphen"/>fulneſſe,</hi> would it have held: but there was their <hi>folly</hi> and <hi>un<g ref="char:EOLhyphen"/>thankfulneſſe;</hi> they would not feed upon this <hi>experience,</hi> and it became their <hi>ſin</hi> and their <hi>ruine</hi> in the wilderneſſe. <hi>How long will this people provoke me?</hi>
+               <note place="margin">Numb. 14.11.</note> 
+               <hi>how long will it be ere they be<g ref="char:EOLhyphen"/>lieve me for all the ſignes which I have ſhewed them in the wilder<g ref="char:EOLhyphen"/>neſſe?</hi>
+            </p>
+            <p>
+               <hi>In this Wilderneſſe they ſhall wander,</hi>
+               <note place="margin">Verſe 33.</note> 
+               <hi>and there they ſhall die.</hi>
+            </p>
+            <p>But to proceed.</p>
+            <p>
+               <note place="margin">Seventhly, in ordering the converſation. Pſal. 50. <hi>ult.</hi>
+               </note>A Seventh <hi>operation</hi> of Thankfulneſſe is, A well-ordering of the Converſation: <hi>He that offereth me praiſe, glorifieth me: but to him that ordereth his converſation aright,</hi> &amp;c. It is a kinde of honour done to God, to keep a <hi>day of Thanksgiving,</hi> to <hi>hear two Sermons,</hi> to <hi>ſing Pſalms,</hi> to <hi>pray and praiſe,</hi> &amp;c. but the main work is the ordering of the Converſation, or, as the Hebrew ſignifies, <hi>diſpoſing of ones way</hi> aright. <hi>Thankful lips</hi> do well, but <hi>thankful lives do better. A day of thanksgiving</hi> is ſomwhat, but <hi>a life of thanksgiving</hi> is all.</p>
+            <p>
+               <note place="margin">Eighthly, in deſires that others would praiſe God.</note>Eighthy a thankful heart is fill'd with <hi>enlarged deſires that others, that all would be thankful.</hi> The holy Pſalmiſt here cries out to all that <hi>receive mercies,</hi> that they would <hi>return praiſe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> &amp;c. He obſerveth how much men <hi>take in</hi> from God, and how little men <hi>lay out</hi> for God, and is troubled at it. He cries out as a man in pain and grief of ſpirit, <hi>Oh that men would praiſe the Lord!</hi> He would not willingly have God be a loſer by any of the wonders he doth for the children of men: and ſurely this an high expreſſion of Thankfulneſſe, when the heart travels with holy deſires that all the world might come in and be tributary to the glory of God: it is the deſigne of the
+<pb n="19" facs="tcp:113436:14"/>148 Pſalm thorowout, the thankful Pſalmiſt engageth <hi>heaven</hi> and <hi>earth, Angels</hi> and <hi>men,</hi> the whole <hi>Creation</hi> to come in and help him keep a day of Thankſgiving. <hi>A gracious heart doth not think it enough to praiſe God alone; though it would be prai<g ref="char:EOLhyphen"/>ſing God, were there none in heaven or earth to bear it company.</hi>
+            </p>
+            <p>To that end,</p>
+            <p>Ninthly,<note place="margin">Ninthly, in talking of Gods works. ſal P. 145. 10, 11, 12.</note> a thankful heart delights to be <hi>talking</hi> of the won<g ref="char:EOLhyphen"/>derful works of God. <hi>Thy Saints ſhall bleſſe thee, they ſhall ſpeak of the glory of thy kingdom, and talk of thy power, to make known to the ſons of men thy mighty acts.</hi> And the Pſalmiſt doth not intend to binde this burden upon others, that he might might withdraw his own ſhoulders; no, he looks upon it as a <hi>priviledge</hi> as well as a <hi>dutie,</hi> and therefore engageth himſelf: <hi>I will ſpeak of the glorious honour of thy majeſtie,</hi>
+               <note place="margin">Verſe 5.</note> 
+               <hi>and of thy won<g ref="char:EOLhyphen"/>drous works.</hi> A gracious heart delights to be ſpreading and publiſhing of the wonderful works of God, repeating and reckoning up all his loving kindneſſes: <hi>I will mention the lo<g ref="char:EOLhyphen"/>ving kindneſſes of the Lord, and the praiſes of the Lord,</hi>
+               <note place="margin">Iſa. 63.7.</note> 
+               <hi>according to all that the Lord hath beſtowed on me, and the great goodneſſe re<g ref="char:EOLhyphen"/>wards the houſe of Iſrael which he hath beſtowed on them, accord<g ref="char:EOLhyphen"/>ing to his mercies, and according to the multitude of his loving kindneſſes:</hi> ſo ſings the Church, <hi>Iſa.</hi> 63.7. And this the Saints do, to the end that they may not onely <hi>provoke one another</hi> to ſet forth his praiſes, but that they may render their <hi>God glorious</hi> to all the world, and <hi>propagate</hi> and <hi>perpetuate</hi> the memory of his wonderful works to all generations: <hi>One generation ſhall praiſe thy works to another, and ſhall declare thy mightie acts:</hi> that is, one generation ſhall make over the report and memori<g ref="char:EOLhyphen"/>al of the glorious cts of God unto another; that ſo he may have the glory of what he doth in one age, in all the ſuc<g ref="char:EOLhyphen"/>ceeding ages and generations of the Church to the end of the world:<note place="margin">Pſal. 78.5.</note> This was the <hi>testimonie</hi> which the Lord eſtabliſhed in <hi>Jacob,</hi> and the <hi>Law</hi> which he appointed in <hi>Iſrael; That they ſhould make known to their children</hi> the ſtrength and the wonder<g ref="char:EOLhyphen"/>ful works which God hath done; to what end? <hi>That the ge<g ref="char:EOLhyphen"/>neration to come might know them,</hi>
+               <note place="margin">Verſe 6.</note> 
+               <hi>even the children which ſhould be born, who ſhould ariſe and declare them to their children,</hi> &amp;c. according to this Law your may finde them acting, Verſ. 2, 3, 4.</p>
+            <pb n="20" facs="tcp:113436:15"/>
+            <p>
+               <note place="margin">Verſe 2.</note>
+               <hi>I will open my mouth, I will utter darkſayings of old,</hi>
+            </p>
+            <p>
+               <note place="margin">Verſe 3.</note>
+               <hi>Which we have heard and known, and our fathers have told us.</hi>
+            </p>
+            <p>
+               <note place="margin">Verſe 4.</note>
+               <hi>We will not hide them from their children, ſhewing to the gene<g ref="char:EOLhyphen"/>ration to come the praiſes of the Lord, and his ſtrength, and his wonderful works that he hath done.</hi>
+            </p>
+            <p>They had received the memorial of the wonders of God from their fathers, and they will hand it down to their chil<g ref="char:EOLhyphen"/>dren, that the wonders of God might be as <hi>eternal</hi> as the God of thoſe wonders. And to that end,</p>
+            <p>
+               <note place="margin">Tenthly, in longing to praiſe God in heaven.</note>Tenthly and laſtly, gracious ſpirits, in laid and enamel'd with Thankfulneſſe, becauſe they can live but a while to praiſe God <hi>on earth,</hi> and their generations too ſhall not continue after them for ever, to do this work, therefore <hi>they breathe after hea<g ref="char:EOLhyphen"/>ven,</hi> where in the preſence of God their praiſes ſhall be <hi>perfe<g ref="char:EOLhyphen"/>cted</hi> and <hi>perpetuated</hi> here, they are <hi>weak, weary,</hi> full of <hi>natu<g ref="char:EOLhyphen"/>ral</hi> and <hi>ſinful mixtures</hi> and <hi>defilements;</hi> there, they ſhall be <hi>vi<g ref="char:EOLhyphen"/>gorous, active, pure, perfect,</hi> as <hi>unchangeable,</hi> as <hi>interminable</hi> as <hi>eternitie</hi> it ſelf.</p>
+            <p>
+               <hi>They rest not day and night,</hi>
+               <note place="margin">Revel. 8.4.</note> 
+               <hi>ſaying, Holy, holy, holy Lord God Almightie, which was, and is, and is to come.</hi>
+            </p>
+            <p>Thankfulneſſe is a <hi>pure flame</hi> of a reſtleſſe motion, ever mounting upward till it come to its <hi>element,</hi> the <hi>Quire</hi> of <hi>Saints</hi> and <hi>Angels</hi> in heaven, where it ſhall ſing everlaſting <hi>Hallelujahs to him that ſitteth upon the throne, and to the Lamb;</hi> where it ſhall keep a day of Thankſgiving that ſhall never know an evening.</p>
+            <p>And thus have I done with the fourth and laſt difference between Gladneſſe and Thankfulneſſe, <hi>ſc.</hi> their <hi>operations,</hi> and ſo with the whole <hi>Doctrinal part</hi> of my Diſcourſe.</p>
+            <p>I ſhould now come to improve it to <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> and <hi>Application;</hi> two ways eſpecially:</p>
+            <list>
+               <item>1. By way of an <hi>Examination,</hi>
+               </item>
+               <item>2. By way of <hi>Direction.</hi>
+               </item>
+            </list>
+            <p>But truely the very <hi>opening</hi> of the <hi>Doctrine</hi> unto you, hath done <hi>both theſe</hi> already to your hands, or at leaſt furniſht you with <hi>materials</hi> upon which you may do both your ſelves.</p>
+            <p>Take this <hi>Model</hi> or Platform of true Thankfulneſſe, lay it before you, operate upon it in your ſerious and impartial
+<pb n="21" facs="tcp:113436:15"/>thoughts; and if you would know <hi>whether you are a thankful peo<g ref="char:EOLhyphen"/>ple or no,</hi> you may eaſily reſolve into an <hi>
+                  <g ref="char:V">Ʋ</g>ſe of Examination,</hi> while every <hi>branch</hi> under all theſe <hi>four heads of differences</hi> will ſerve you as <hi>Note</hi> of <hi>Trial,</hi> whereby you may make ſome <hi>Judge<g ref="char:EOLhyphen"/>ment</hi> upon the queſtion Whether you do <hi>more then others</hi> of the world, in this great work of <hi>Thankfulneſſe.</hi> And if you would know <hi>how you might be thankful,</hi> ſet this Model in your eye, and it will ſerve you as <hi>Directory,</hi> wherein every <hi>branch</hi> (again) will be a <hi>Rule</hi> whereby you may form and proportion your <hi>Thankfulneſſe</hi> according to the <hi>Word,</hi> and the example of thoſe Saints who have excell'd in this <hi>grace</hi> and <hi>duty</hi> of <hi>Thank<g ref="char:EOLhyphen"/>fulneſſe.</hi>
+            </p>
+            <p>Truely, Honourable and Beloved, you had need to do it, and to do it with your beſt and pureſt intentions: for I profeſſe to you, the moſt, not moſt of <hi>men</hi> onely, but of <hi>Christians,</hi> do wofully miſtake both <hi>this duty</hi> and <hi>themſelves</hi> too.</p>
+            <p>The <hi>world,</hi> yea, the <hi>greatest part</hi> of the Goſpel-world, is ex<g ref="char:EOLhyphen"/>tremely <hi>out</hi> in this great buſineſſe of <hi>Thankfulneſſe.</hi> It is ſad and fearful to obſerve, with what <hi>skins,</hi> and <hi>ſhadows,</hi> and (almoſt) <hi>mockeries</hi> God is turn'd off, in ſtead of this <hi>pure, holy, ſpiritual, active</hi> grace and duty of Thankfulneſſe: <hi>God</hi> looks for <hi>praiſe,</hi> and we turn him off with a <hi>natural, lazie, ſelfiſh Gladneſſe.</hi> Some haply go not ſo far, but like the elder Brother in the <hi>Go<g ref="char:EOLhyphen"/>ſpel ſtand murmuring &amp; quarrelling without, whilſt in our Fathers houſe there is feasting and muſick.</hi> Many malignant ſpirits there be who fret, and repine, and gnaſh their teeth at the glorious <hi>Succeſſes</hi> wherewith <hi>God</hi> hath been pleaſed to crown the out<g ref="char:EOLhyphen"/>goings of his ſervants and people in theſe later days.</p>
+            <p>But truely that ſads not my ſpirit ſo much, as to ſee a people whom God hath ſtrived to <hi>endear</hi> unto himſelf by ſo many <hi>mi<g ref="char:EOLhyphen"/>racles</hi> of preſervation, Deliverances and Victories, to <hi>mock God</hi> out of his <hi>praiſe,</hi> and <hi>themſelves</hi> (at length) out of their <hi>mercies.</hi> Surely we may weep over our <hi>Deliverances,</hi> and turn our days of <hi>Thanksgiving</hi> into days of <hi>mourning</hi> and <hi>lamentati<g ref="char:EOLhyphen"/>on,</hi> to conſider how we <hi>dally</hi> with God, and put him off with a few <hi>empty, formal Complements,</hi> in ſtead of that <hi>real,</hi> and <hi>ſpi<g ref="char:EOLhyphen"/>ritual,</hi> and <hi>vital</hi> dutie which he expects and deſerves at our hands.</p>
+            <pb n="22" facs="tcp:113436:16"/>
+            <p>And therefore I ſaid, when I heard I was deſigned to the ſer<g ref="char:EOLhyphen"/>vice of this day I will not ſtand to analyſe this <hi>mercie,</hi> nor take in pieces this work of God, the ſurrender of that ſtrong im<g ref="char:EOLhyphen"/>pregnable Hold of <hi>Chester,</hi> though very <hi>great,</hi> and worthy to be <hi>ſought out by all them that take pleaſure in</hi> the works of the Lord; but I will tell the Parliament, and tell the Kingdom, <hi>what it is to be thankful,</hi> that they may ſee how much they are miſta<g ref="char:EOLhyphen"/>ken, and what wrath hangs over our heads for the <hi>carnality, rottenneſſe, hypocriſie</hi> of our <hi>rejoycings</hi> over all the wonders which God hath done for <hi>England.</hi>
+            </p>
+            <p>And therefore, <hi>Noble Senators,</hi> and <hi>all you that ſtand before God this day,</hi> or to <hi>whom the words of this day may come,</hi> ſit down I beſeech you, ſeriouſly examine your ſelves by, and compare your ſelves with this Model of <hi>Thankfulneſſe</hi> held forth to you this day, and ſee whether indeed you do come up to the <hi>Law</hi> of that Service, which all the wonders that God hath done for you, doth call for at your hands; and what courſe you are to take for the preventing and averting of that wrath which I am afraid is gone forth againſt us for this thing.</p>
+            <p>I cannot ſtand to convince you by each particular in this <hi>Model.</hi>
+            </p>
+            <p>Give me leave to ſingle out but one <hi>branch,</hi> and to deal faithfully with you in that particular; it is a <hi>main</hi> one, and ſuch as will include many other.</p>
+            <p>It is the <hi>fifth branch</hi> of the <hi>fourth head</hi> of Difference be<g ref="char:EOLhyphen"/>tween Gladneſſe and Thankfulneſſe: namely.</p>
+            <p>
+               <hi>Paying of Vows,</hi> or <hi>keeping of Covenant</hi> with God.</p>
+            <p>Noble Patriots, and all you that come hither to keep a day of Thankſgiving to God this day; come on, ſet up <hi>tribunals,</hi> and place <hi>Conſcience</hi> thereon as an <hi>impartial Judge,</hi> to keep a <hi>little day of Judgement</hi> in your boſoms this day: <hi>We must all appear before the Judgemedt-ſeat of Christ</hi> one day;<note place="margin">2 Cor. 5.10.</note> and how ſoon, the Lord onely knows: Come, ſtart not back; better <hi>judge our ſelves</hi> then be <hi>judged of the Lord:</hi> If we cannot ſtand before our own <hi>Conſciences,</hi> how ſhall we be able to ſtand before that <hi>Judge</hi> who is <hi>greater then our heart,</hi> and knoweth all things;<note place="margin">1 Joh. 3.20.</note> the <hi>great-heart-maker,</hi> and the <hi>great-heart-ſear<g ref="char:EOLhyphen"/>cher.</hi>
+            </p>
+            <pb n="23" facs="tcp:113436:16"/>
+            <p>Come on then, I ſay, and ſee whether in this one <hi>branch</hi> of Thankfulneſſe we can <hi>approve our ſelves</hi> to God to be a <hi>thank<g ref="char:EOLhyphen"/>ful people.</hi>
+            </p>
+            <p>I will not ravel into your boſoms to enquire with what <hi>diſpoſitions</hi> of ſpirit, upon what <hi>grounds</hi> and <hi>interests;</hi> to what <hi>ends</hi> and <hi>references</hi> you entred into the <hi>Solemn League and Co<g ref="char:EOLhyphen"/>venant;</hi> though I wiſh with all my heart that <hi>you</hi> would; per<g ref="char:EOLhyphen"/>haps you would finde a <hi>pad in the ſtraw;</hi> in your entrance into this Covenant, poſſibly you may diſcover <hi>raſhneſſe</hi> in oppoſi<g ref="char:EOLhyphen"/>tion to <hi>judgement; hypocriſie,</hi> in oppoſition to <hi>truth</hi> and <hi>ſince<g ref="char:EOLhyphen"/>rity;</hi> it may be, <hi>baſe, lowe, carnal ends</hi> and <hi>aims,</hi> in oppoſition to <hi>Righteouſneſſe,</hi> which are the <hi>Qualifications</hi> of a religious <hi>Covenanter;</hi>
+               <note place="margin">Jer. 4.2.</note> perhaps ſuch workings of heart as ſometimes brought the <hi>Sichemites</hi> into Covenant with the ſons of <hi>Jacob;</hi>
+               <note place="margin">Gen. 34.23.</note> Shall not their <hi>cattel, and their ſubſtance, and every beaſt of theirs be ours?</hi> &amp;c. perhaps the gaining of ſuch an <hi>office,</hi> ſecuring the <hi>eſtate,</hi> the keeping of ſuch a <hi>Living,</hi> was in the eye, <hi>&amp;c.</hi> Oh let the <hi>Kingdoms</hi> enquire into this, and let every man look into his own heart: for if it were ſo, know of a certin, that this was firſt ſource and fountain of all that ſin and miſchief which hath broken in upon us ſince the day of our Covenanting with God and with one another. But this I leave: the thing that I would cloſe upon with your Conſciences, is this: <hi>How have you kept your Covenant with God?</hi>
+            </p>
+            <p>Men and Brethren, have ye <hi>paid your vows unto the Lord,</hi> the Vows which ye uttered in this place in the day wherein you <hi>lifted up your hands to the most high God?</hi>
+            </p>
+            <p>If you ſhall ſay, Yea, we have paid our Vows, and (with <hi>Saul</hi>) <hi>We have obeyed the voice of the Lord;</hi> let me demand, with <hi>Samuel, What means then the lowing of the oxen, and the bleating of the ſheep in mine ears?</hi> What means that <hi>brutiſh,</hi> and <hi>beastly</hi> noiſe of <hi>Hereſie,</hi> and <hi>Schiſm,</hi> and <hi>Profaneneſſe</hi> in mine ears?</p>
+            <p>Did ye not indeed Covenant with God <q rend="margQuotes">
+                  <hi>the preſervation of Religion in the Church of Scotland,</hi> &amp;c. and the <hi>Reformation of Religion in the Kingdoms of England and Ireland, in Do<g ref="char:EOLhyphen"/>ctrine, Worſhip, Diſcipline and Government, according to the Word of God, and the example of the beſt Reformed Churches?</hi>
+               </q>
+               <pb n="24" facs="tcp:113436:17"/>Oh what is the reaſon then that to this day, <hi>the Houſe of God lieth waſte?</hi> in ſome places there being no Miniſtery for want of <hi>Ordination;</hi> in others, indeed in all places, there being no <hi>Diſcipline</hi> or <hi>Government</hi> for want of a <hi>Rule according to the Word:</hi> no Diſcipline, I ſay, unleſſe it be amongſt thoſe whoſe impatient zeal ſuffers them not to wait for your <hi>civil Sancti<g ref="char:EOLhyphen"/>on.</hi> Will ye ſay <hi>The time is not come;</hi>
+               <note place="margin">Hagg. 1.2.</note> 
+               <hi>the time for building the Lords Houſe is not come?</hi> I cannot give you the Prophets an<g ref="char:EOLhyphen"/>ſwer; I muſt confeſſe you have not ſpent your time in building your own <hi>houſes,</hi> and <hi>ceiling them;</hi> nay, ſome of your houſes have been pull'd down to the ground, and the <hi>ceiling</hi> deſtroyed <hi>with axes and hammers,</hi> in the Pſalmiſts language: But this I pray with all my ſoul, that you have not ſaid ſo, long; <hi>The time is not come, the time is not come, we are not yet in a fitting po<g ref="char:EOLhyphen"/>sture,</hi> (Oh, my ſoul trembles to ſpeak it) till God ſay <hi>The time is past, The time is past: Becauſe I would have purged, and thou waſt not purged;</hi>
+               <note place="margin">Ezek. 241.3.</note> 
+               <hi>thou ſhalt not be purged; thou ſhalt not be purged from thy ſilthineſſe any more, till I have cauſed my fury to rest upon thee.</hi> Oh, if the Lord ſhould ſpeak ſuch a word againſt us, <hi>England</hi> is undone for ever. I am much afraid, if you <hi>time it out ſſe any more, till I have cauſed my fury to rest upon thee.</hi> Oh, if the Lord ſhould ſpeak ſuch a word againſt us, <hi>England</hi> is undone for ever. I am much afraid, if you <hi>time it out</hi> a little longer, you will have no <hi>mate<g ref="char:EOLhyphen"/>rials</hi> to build the <hi>Lords houſe</hi> withal, unleſſe you will build it with the <hi>ſhrubs</hi> and <hi>thorns</hi> of the wilderneſſe.</p>
+            <p>But further, how comes it to paſſe, I beſeech you, ſince you are under the Covenant of God, to reform according to the <hi>Word,</hi> and example of <hi>the best Reformed Churches,</hi> that ſome are ſo ſtartled at the very mention of ſuch a Clauſe, <hi>According to the Word of God, and example of the best Reformed Churches,</hi> as if they ſaw a <hi>monſter,</hi> ſome hideous <hi>apparition</hi> which had in it the face of <hi>Treaſon</hi> and <hi>Blaſphemie?</hi>
+            </p>
+            <p>But I muſt proceed. Have you not Covenanted to extir<g ref="char:EOLhyphen"/>pate <hi>Superſtition, Hereſie, Schiſm, Profaneneſſe, and whatſoever ſhall be found contrary to ſound Doctrine and the power of Godli<g ref="char:EOLhyphen"/>neſſe</hi> &amp;c.? How comes it to paſſe then that <hi>theſe</hi> abound more then ever they did, and that under your Noſes? while there is ſuch a numerous encreaſe of <hi>Errours</hi> and <hi>Hereſies,</hi> as I bluſh to repeat what ſome have affirmed; namely, that there be no Iſſe then One hundred and eighty ſeveral Hereſies propagated
+<pb n="25" facs="tcp:113436:17"/>and ſpread in this neighbouring <hi>Citie,</hi> which hitherto hath been ſo famous for <hi>ſoundneſſe of Doctrine</hi> and <hi>the power of godlineſſe:</hi> and many of them alſo of ſuch a <hi>nature,</hi> as that I may ſay, in <hi>Galvin</hi>'s language, The <hi>Errours</hi> and <hi>Innovations</hi> under which we ſo much groaned of later yeers, were but <hi>tolerabiles ineptiae,</hi> tolerable triſles, childrens play, compared with theſe damna<g ref="char:EOLhyphen"/>ble Doctrines, <hi>Doctrines of devils</hi> as the Apoſtle calls them: <hi>Polygamy, Arbitrary Divorce, Mortality of the Soul, No Mini<g ref="char:EOLhyphen"/>stery, no Churches, No Ordinances, No Scripture;</hi> yea, the very <hi>Divinity</hi> of <hi>Christ</hi> and the <hi>holy Ghost</hi> queſtioned by ſome, deni<g ref="char:EOLhyphen"/>ed by others: And the very foundation of all theſe laid in ſuch a <hi>Schiſm</hi> of <hi>boundleſſe liberty of Conſcience,</hi> viz. <hi>Believe what you will, and preach what you believe,</hi> and ſuch <hi>lawleſſe Separa<g ref="char:EOLhyphen"/>tion of Churches;</hi> and all theſe not onely whiſpered in corners, but preacht on the <hi>houſe top, yea,</hi> publiſhed in <hi>Print</hi> before your faces with ſo much virulency and impudence, that I ve<g ref="char:EOLhyphen"/>rily believe no Age ſince the Apoſtles times could ever pa<g ref="char:EOLhyphen"/>rallel.</p>
+            <p>Fathers and Brethren,<note place="margin">Acts 18.17.</note> how will you call this <hi>Keeping of Co<g ref="char:EOLhyphen"/>venant with God?</hi> Had we a Parliament of <hi>Apostate Julians,</hi>
+               <note place="margin">Auguſt. Epiſt <hi>166.</hi>
+               </note> of whom it is reported, that at what time he opened the <hi>Tem<g ref="char:EOLhyphen"/>ples of the Heatheniſh gods,</hi> he ſet open the <hi>Christian Churches;</hi> call'd home all the Chriſtians whom he had baniſht, both Or<g ref="char:EOLhyphen"/>thodox and Heretick, and gave them, as we call it, <hi>Liberty of conſcience;</hi> but as <hi>Auſtin</hi> more truely phraſeth it, <hi>Libertatem perditionis, Liberty to deſtroy themſelves;</hi>
+               <note place="margin">Eo modo putans Chriſtianum ne<g ref="char:EOLhyphen"/>men poſſe perire de terris, <hi>&amp;c.</hi>
+               </note> for that was his po<g ref="char:EOLhyphen"/>licie and end, namely, by <hi>liberty of all Religions</hi> to deſtroy the <hi>true,</hi> and the profeſſors thereof too: or had we a Parliament of <hi>careleſſe Gallio's,</hi> we ſhould not wonder: but for a Parlia<g ref="char:EOLhyphen"/>ment of <hi>Christians, Protestants, Profeſſors,</hi> the choiſeſt, the <hi>most active</hi> that could be cull'd out of a Chriſtian State, the like not under heaven; that theſe things ſhould be done, and <hi>you hold your peace,</hi> and be able to keep your places, and <hi>not to put on righteouſneſſe as a brestplate,</hi>
+               <note place="margin">Iſa. 59.17.</note> 
+               <hi>and the garments of venge<g ref="char:EOLhyphen"/>ance for your clothing,</hi> as it is ſaid of God; this makes the Chur<g ref="char:EOLhyphen"/>ches abroad to wonder what <hi>England</hi>'s Parliament is a doing; and all at home that love the Lord Jeſus Chriſt more then their own <hi>interests</hi> and <hi>notions,</hi> to be fill'd with unſpeakable trem<g ref="char:EOLhyphen"/>bling
+<pb n="26" facs="tcp:113436:18"/>and aſtoſhniſhment, to wit, what God means to do with this poor bleeding Church and State. But further:</p>
+            <p>Have we not lifted up our hands to the moſt high God, to <hi>amend our lives, and each one to go before another in the example of a real Reformation?</hi> Ah God, where is it to be found? Is not the <hi>drunkard</hi> a <hi>drunkard</hi> ſtill; and the <hi>ſwearer</hi> a <hi>ſwearer</hi> ſtill; and the <hi>adulterer</hi> an <hi>adulterer</hi> ſtill? <hi>&amp;c.</hi> and Oh that I could but ſay with the Apoſtle, <hi>Such were ſome of you.</hi> Yea, what an <hi>improvement</hi> of wickedneſſe is there in the Kingdom? as if the Covenant had blaſted mens <hi>conſciences,</hi> not their <hi>corrupti<g ref="char:EOLhyphen"/>ons.</hi>
+            </p>
+            <p>But, that which is yet worſe then all this, is, that this <hi>holy Covenant</hi> is become amongſt many, <hi>a brand of infamy, a Cain</hi>'s <hi>mark</hi> almoſt: Would ye ſtigmatize a man (in ſome places) to purpoſe? call him <hi>a Covenanter: He, he will take the Cove<g ref="char:EOLhyphen"/>nant.</hi> Ah Lord! it is able to make ones hair ſtand upright, to ſee what dirt and mire is caſt into the face of this holy Cove<g ref="char:EOLhyphen"/>nant: Surely never was Covenant ſo abuſed, ſcorned, and trampled under foot as this is: and happie were we, if it were by the wicked and profane <hi>malignant party</hi> onely. Ah how many have dealt with the Covenant, as the <hi>Scribes</hi> and <hi>Phariſees</hi> of old <hi>did,</hi> and the <hi>Antinomians</hi> of this age <hi>do</hi> with the <hi>Law</hi> of God, <hi>make it void,</hi> through their <hi>diſtinctions</hi> and <hi>gloſſes</hi> which they have put upon it? How many deal with it as the Papiſts do with the Scriptures, make it <hi>a noſe of Wax and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Leaden rule; a two-faced picture,</hi> an <hi>Any thing</hi> to ſerve their own turns? Do we thus requite God, Oh fooliſh peo<g ref="char:EOLhyphen"/>ple and unwiſe!</p>
+            <p>Well, Sirs, we pray for <hi>the King's converſion,</hi> and talk of his <hi>coming home;</hi> but there is a place of Scripture ſounds dread<g ref="char:EOLhyphen"/>fully in mine ears: <hi>For now ſhall they ſay, We have no king.</hi> When ſhould <hi>Iſrael</hi> ſay ſo?<note place="margin">Hoſ. 10.3.</note> Surely when <hi>Zed<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>kiah</hi> was carried Captive into <hi>Babylon;</hi> of which you may read, 2 <hi>King.</hi> 24 15, 16, 17. and Chap. 25 7. <hi>They ſlow the ſons of Zedekiah before his eyes, and put out the eyes of Zedekiah, and bound him in fetters of braſſe, and carried him to Babylon.</hi> Then did <hi>Iſrael</hi> cry <hi>We have no King:</hi> Alas, alas, they have <hi>put out the eyes of his Majeſtie,</hi> and carried him away captive: our King is <hi>in Babylon,</hi> among
+<pb n="27" facs="tcp:113436:18"/>
+               <hi>Idolaters</hi> and <hi>Murderers:</hi> We have no King, and it is juſt with God it ſhould be ſo, <hi>becauſe we feared not the Lord;</hi> we firſt caſt off God, before our King did caſt off us: we would not have <hi>God</hi> to be our <hi>King,</hi> and therefore he would not ſuffer our <hi>King</hi> to be our <hi>god: We have no King, becauſe we feared not the Lord.</hi> And wherein did this <hi>fearleſneſſ</hi> of God appear? It fellows, Verſ. 4. <hi>They have ſpoken words ſwearing falſly in making a Co<g ref="char:EOLhyphen"/>venant.</hi> What <hi>Covenant</hi> was that?<note place="margin">Verſ. 4.</note> Some refer it to the Pro<g ref="char:EOLhyphen"/>phecies of the falſe Prophets, who though they propheſied <hi>lyes</hi> to the people, <hi>a viſion of their own head,</hi> yet they were ſo ſacri<g ref="char:EOLhyphen"/>legiouſly impudent as to father their <hi>lyes</hi> upon God, by ſetting his <hi>ſeal</hi> to their Prophecies, the <hi>form of oath</hi> which God him<g ref="char:EOLhyphen"/>ſelf did uſe, <hi>As I live, ſaith the Lord.</hi>
+            </p>
+            <p>Others refer theſe words to the Covenant which God threa<g ref="char:EOLhyphen"/>tens to diſannul, <hi>The Covenant they made with death and hell.</hi>
+               <note place="margin">Iſa. 28.18.</note>
+            </p>
+            <p>But I conceive with others, the words do relate either to the Covenant which <hi>Zedekiah</hi> and the people made with the King of <hi>Babylon</hi> to ſerve him, and become his Vaſſals, of which you may read, <hi>Ezek.</hi> 17.12, 13, 14. <hi>The King of Babylon is come to Jeruſalem, and hath taken the King thereof,</hi>
+               <note place="margin">Ezek. 17.12, 13, 13.</note> &amp;c. <hi>and made a Cove<g ref="char:EOLhyphen"/>nant with him, and hath taken an Oath of him, that the Kingdom might be baſe, i. e.</hi> be in ſubjection to the King of <hi>Babylon.</hi> This Covenant <hi>Zedekiah,</hi> and the Princes, and the people had ſolemnly confirmed both by <hi>Oath,</hi> and by <hi>lifting up</hi> or <hi>ſtriking</hi> hand, verſ. 18.</p>
+            <p>Or elſe the words may relate to that other Covenant which <hi>Zedekiah,</hi> the Princes, the Prieſts, and the People of <hi>Judah</hi> had made with God, while this Captivity was yet threatned,<note place="margin">Jer. 34.2, 3, 14, 15, 19.</note> concerning the letting of their ſervants go free at the end of Seven yeers, according to the Law:<note place="margin">Exod. 21.2.</note> 
+               <hi>And ye were now tur<g ref="char:EOLhyphen"/>ned, and had done right in my ſight, in proclaiming liberty every man to his neighbour; and ye had made a Covenant before me in the houſe which is called by my Name.</hi> I ſay, To either or both of theſe Covenants, may the words refer; for in both theſe <hi>they ſware falſly,</hi> not in regard of the <hi>matter</hi> of the Cove<g ref="char:EOLhyphen"/>nant<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for it was lawful and good: but in reſpect of their <hi>ma<g ref="char:EOLhyphen"/>naging</hi> of it: <hi>Thoy have ſpoken words ſwearing falſly:</hi> there was nothing but <hi>words</hi> to be found in their <hi>covenanting;</hi> they were
+<pb n="28" facs="tcp:113436:19"/>not real and ſubſtantial with God in this ſolemn Service; they <hi>brake</hi> their Covenant asſoon as they had <hi>made</hi> it; that was their <hi>ſwearing falſly:</hi> ſo you may finde it laid to their charge in the former places:<note place="margin">Jer. 34.16.</note> Ye were now turned, and had done right in my ſight, <hi>&amp;c. but ye turned and polluted my Name, and cauſed every man his ſervant and every man his handmaid to return, and brought them into ſubjection.</hi> Ye were <hi>turned,</hi> but ye <hi>turned:</hi> here is one <hi>turn</hi> too much: In the <hi>first</hi> turn, they <hi>made</hi> a Covenant with God;<note place="margin">Verſe 18.</note> in the <hi>ſecond,</hi> they <hi>brake</hi> it: <hi>I will give the men that have tranſgreſſed my Covenant, which have not performed the words of the Covenant</hi> which they had made before me.</p>
+            <p>And no better dealt they in the Covenant they made with <hi>the King of Babylon,</hi>
+               <note place="margin">Ezek. 17.15, 16.</note> to become his ſervants: <hi>He rebelled againſt him,</hi> &amp;c. <hi>He brake the Covenant; He deſpiſed the Oath, and he brake the Covenant.</hi> And ſo again, verſ. 18.</p>
+            <p>And the breach of both theſe Covenants is aggravated from the <hi>Author</hi> of this Service;<note place="margin">Deut 6.13.</note> it is a part of <hi>Divine Worſhip: Thou ſhalt fear the Lord thy God, and ſerve him, and ſhalt ſwear by his Name;</hi> and by the <hi>object</hi> or <hi>witneſſe</hi> of the Covenant: as God is the <hi>Author,</hi> ſo he is <hi>witneſſe;</hi> thou ſhalt ſwear <hi>by his Name:</hi> God is call'd in, as a <hi>righteous Judge</hi> to take vengeance on the party that ſhall <hi>prevaricate,</hi>
+               <note place="margin">Verſ. 19.</note> in both which reſpects God calls it <hi>his Oath: Surely mine Oath which he hath deſpiſed, and my Covenant which he hath broken.</hi>
+               <note place="margin">Jer. 34.18.</note>
+            </p>
+            <p>As alſo, it is aggravated in both places, from the <hi>ſolemnity</hi> of the making of the Covenant; as in that place in <hi>Jeremiah:</hi> They have not performed the words of the Covenant which they had made before me, <hi>when they out the calf in twain, and paſſed between the parts thereof.</hi> And ſo again, verſ. 19. <hi>The people of the land which paſſed between the parts of the calf:</hi> which kinde of Ceremony or Sanction, was taken from Gods own command to <hi>Abraham</hi> when he made a Covenant with him,<note place="margin">Diodorus Tar<g ref="char:EOLhyphen"/>ſenſis. Stabani &amp; caeſa formaban<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> foede<g ref="char:EOLhyphen"/>ra porca.</note> 
+               <hi>Gen.</hi> 15. from whence alſo even the <hi>Caldeans</hi> and <hi>Ro<g ref="char:EOLhyphen"/>manes</hi> borrowed it, as they had other parts and parcels of Reli<g ref="char:EOLhyphen"/>gion; by which Ceremony they did as it were ſilently impre<g ref="char:EOLhyphen"/>cate this Judgement upon themſelves, <hi>that they might be ſo divi<g ref="char:EOLhyphen"/>ded as thoſe beaſts were,</hi> if they did violate their Covenant: from
+<pb n="29" facs="tcp:113436:19"/>this ſolemnity, as from the other in <hi>Ez<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>kiel,</hi> &amp;c. <hi>giving the hand,</hi>
+               <note place="margin">Ezek. 17.18.</note> or as with us, <hi>lifting up the hand to the most high God,</hi> doth God aggravate their <hi>Covenant-violation; when lo, he had given his hand!</hi> God ſpeaks with indignation, as of an eminent and remarkable treachery and perſidiouſneſſe: <hi>When lo! he had given his hand.</hi>
+            </p>
+            <p>And for this indeed now they begin to judge themſelves: <hi>We have no King becauſe we feared not the Lord;</hi> that is, becauſe we have not feared the <hi>Oath of the Lord,</hi> but have dealt <hi>falſly</hi> and <hi>treacherouſly</hi> in the Covenant: it is juſt with God we ſhould have no King, that our King ſhould break Covenant with us, that have broken Covenant with our God: yea, they judge themſelves not onely for <hi>what is past,</hi> but unworthy to ſinde mercy for the <hi>time to come:</hi> not onely <hi>We have no King,</hi> but, <hi>What then ſhall a King do to us?</hi> q. d. <hi>We deſerve never to ſee the face of our King any more,</hi> but to be left to per<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſh in our Confuſions and Diviſions, while every man doth what is good in his own eye: or if our King ſhould come back out of Ca<g ref="char:EOLhyphen"/>ptivity, <hi>What ſhould he do to us?</hi> Can we expect a King ſhould do us any good, while <hi>our God is angry</hi> with us for our <hi>Covenant-wickedneſſe?</hi> No; if he ſhould come out of <hi>Baby<g ref="char:EOLhyphen"/>lon again,</hi> God might make him a <hi>curſe</hi> in ſtead of a <hi>bleſſing,</hi> a <hi>plague</hi> and a <hi>ſnare</hi> to our <hi>deſtruction.</hi>
+            </p>
+            <p>Men and Brethren, this I take to be the ſenſe of the place; and I need ſay no more. Surely every one of you here before God, have with trembling hearts prevented me in the Appli<g ref="char:EOLhyphen"/>cation: onely let me adde this: If God were ſo angry, and threatens ſo furiouſly the breach of a Covenant made with an <hi>Heatheniſh Tyrant,</hi> an <hi>Infidel</hi> (with whom <hi>the other Babylon, Myſtical Babylon,</hi> teacheth <hi>no faith is to be k<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pt</hi>) becauſe it was made <hi>before God,</hi> and <hi>by the Name of God; ſhall he proſper? ſhall he eſcape that doth ſuch things?</hi>
+               <note place="margin">Jer. 17.19.</note> 
+               <hi>or ſhall he break the Cove<g ref="char:EOLhyphen"/>nant and be delivered? As I live, mine Oath that he hath deſpi<g ref="char:EOLhyphen"/>ſed, and my Covenant that he hath broken, even it will I re<g ref="char:EOLhyphen"/>compence upon his own head,</hi> &amp;c. Oh how ſhall ſhe eſcape? yea, of how much ſorer puniſhment ſhall we be thought wor<g ref="char:EOLhyphen"/>thy, if we be found guilty of ſo high a <hi>perjury</hi> in <hi>breaking</hi> and <hi>deſpiſing</hi> a Covenant made not onely <hi>before God,</hi> in the <hi>Name
+<pb n="30" facs="tcp:113436:20"/>of God,</hi> but <hi>with God</hi> himſelf. In ſo ſolemn and ſacred a manner, with <hi>Fasting,</hi> and <hi>Prayer,</hi> and <hi>Sermons,</hi> and <hi>lifting up our hands to the moſt high God.</hi>
+            </p>
+            <p>Oh that as we have ſinned with this people, and beyond, in<g ref="char:EOLhyphen"/>ſinitely beyond the line and meaſure of their tranſgreſſi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ns; ſo we would judge our ſelves with them, in the bitterneſſe of our ſpirits; <hi>We have no King, becauſe we feared not the Lord; ſpeak<g ref="char:EOLhyphen"/>ing words, ſwearing falſly in making a Covenant; and what then ſhould a King do to us?</hi>
+            </p>
+            <p>We hope an end ſhall be put ſhortly to theſe <hi>bloody deſola<g ref="char:EOLhyphen"/>ting wars;</hi> and we cry to the Sword, <hi>Oh thou Sword of the Lord,</hi>
+               <note place="margin">Jer. 47.6.</note> 
+               <hi>how long will it be ere thou be quiet? put up thy ſelf into thy ſcabbard, reſt and be ſtill:</hi> but the <hi>Sword</hi> will not <hi>obey our voice;</hi> and no wonder; <hi>for we have not obeyed the voice of the Sword;</hi> we have not heard the Sword, and who had appointed it: and therefore meth<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nks I hear the Sword replying, <hi>How can I be quiet, ſince the Lord hath given me a charge againſt</hi> Eng<g ref="char:EOLhyphen"/>land?<note place="margin">Verſ. 7.</note> Yea, methinks I hear God renewing the Commiſſion of the Sword in the words of that <hi>threatning: I will bring a ſword upon yo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that ſhall avenge the quarrel of my Covenant.</hi> We keep now a day of <hi>Thank<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>giving for the ſurrender of a ſtrong Hold in the Kingdom,</hi>
+               <note place="margin">Levit. 26.25.</note> and God hath ſent us in the glad tiding of a great Victory in the Weſt, to fill up our joy, and to beſpeak more days of Rejoycing and Thankfulneſſe; but for my part, I fear that for theſe things the Sword hath yet a Commiſ<g ref="char:EOLhyphen"/>ſion to come up to <hi>London,</hi> to paſſe thorow the Kingdom; and that we ſhall hear ere long, as faſt of Loſing Cities, and Caſtles, and the ſtrong Gariſons of the Kingdom, as now of gaining them; and read our Catalogue of Deliverances and Victories backward with ſad hearts: <hi>Cheſter</hi> loſt, <hi>Hereford</hi> loſt, <hi>Dart<g ref="char:EOLhyphen"/>month</hi> loſt, <hi>&amp; ſic in caet.</hi>
+            </p>
+            <p>If you would prevent ſo ſad a turn of things, give me leave humbly to commend to you theſe two ſhort Advices.</p>
+            <p n="1">1. <hi>Proclaim,</hi> I beſeech you, a ſolemn Faſt, wherein we may profeſſedly <hi>humble</hi> and <hi>afflict</hi> our ſouls for our <hi>Covenant-viola<g ref="char:EOLhyphen"/>tions,</hi> whereby God is ſo deeply provoked; and wherein (if it might ſeem good to your wiſdoms) the <hi>Covenant might be renewed</hi> in a more ſolemn and ſerious manner with our God:
+<pb n="31" facs="tcp:113436:20"/>that as <hi>Samuel called the people to Gilgal to renew the Kingdom upon Saul;</hi> ſo you that are <hi>England</hi>'s <hi>Samuels,</hi>
+               <note place="margin">1 Sam. 11.14.</note> might call the people together to this <hi>Galgal</hi> (where the Lord firſt <hi>rolled away our reproa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h,</hi> by bringing us into the bond of the Covenant) to <hi>renew the Kingdom</hi> upon our <hi>Lord Jeſus,</hi> whom God hath ap<g ref="char:EOLhyphen"/>pointed to be <hi>King in his holy Hill of Sion.</hi>
+               <note place="margin">Pſal. 2.6.</note>
+            </p>
+            <p>For think not, Brethren, I beſeech you, that becauſe we have broken our Covenant with God, therefore we are <hi>diſobliged</hi> from our Covenant: that were an eaſie way to get looſe in<g ref="char:EOLhyphen"/>deed, if when we are weary of our Vows, it were but to go and <hi>ſin againſt them,</hi> and then we are diſengaged: But it is with the Covenant as it is with the Law; there is a two<g ref="char:EOLhyphen"/>fold <hi>obligation;</hi> the one to <hi>duty,</hi> the other to a <hi>curſe;</hi> and if we <hi>break</hi> the one, the other will <hi>hold</hi> us <hi>fast enough. Did not my words take hold upon your fathers?</hi> How?<note place="margin">Zech. 1 6.</note> Surely not in the <hi>commanding power</hi> of them, but in the <hi>executionary power; they took hold on them with a vengeance:</hi> And therefore our way is to bring our ſelves again under the <hi>commanding</hi> power, that we may not lie under the <hi>condemning curſing</hi> power of the Co<g ref="char:EOLhyphen"/>venant. Indeed the Covenant is then broken, and not fully till then, when a people will not <hi>own</hi> their Covenant with God: and therefore Oh that the Lord would help us in this our day to <hi>conſider the things that belong unto our peace, before they be hid from our eyes.</hi>
+            </p>
+            <p n="2">2. To that end, ſtudie <hi>real Thankfulneſſe:</hi> To <hi>you</hi> that <hi>ſit at the Stern,</hi> guiding the Ship of this Church and State in this <hi>troubleſome Sea;</hi> let me commend unto you but this piece of <hi>Thankfulneſſe: Set up God;</hi>
+               <note place="margin">Verſ. 23.</note> 
+               <hi>Exalt him in the congregation of the people,</hi> by ſetting up the <hi>Miniſtery of the Word:</hi> Let this be your wiſedom and honour, that when God hath given up the <hi>ſtrong Holds</hi> of the Kingdom to you, you would <hi>render</hi> them up <hi>back</hi> again to <hi>God,</hi> by placing able and faithful Miniſters in thoſe eminent places of the Kingdom, that may <hi>undeceive</hi> the poor mifled people, and to ſeaſon them with Principles of <hi>Re<g ref="char:EOLhyphen"/>ligion</hi> and <hi>Loyaltie,</hi> to which they have been ſo long ſtrangers. To that end, haſten I beſeech you your Ordinance for <hi>Ordi<g ref="char:EOLhyphen"/>nation:</hi> it were a ſad thing that the ſtrong Holds of the King<g ref="char:EOLhyphen"/>dom ſhould be <hi>taken</hi> for <hi>God,</hi> and <hi>kept</hi> for the <hi>Devil;</hi> for want
+<pb n="32" facs="tcp:113436:21"/>of <hi>Paſtors according <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o Gods own heart, and that may feed them with knowledge and underſtanding.</hi>
+            </p>
+            <p>
+               <note place="margin">Verſ 32.</note>Secondly,<hi>Pra<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe him in the Aſſembly of the Elders,</hi> by ſetting up <hi>Church-Government</hi> according to your <hi>Covenant.</hi> What it is, I need not tell you; enough hath been ſaid about this mat<g ref="char:EOLhyphen"/>t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r; and you are <hi>wiſe.</hi>
+            </p>
+            <p>I will not, I need not ask you, Whether you intend really and cordially to go about this Work, <hi>this greateſt work</hi> where<g ref="char:EOLhyphen"/>with God and the Kingdom have entruſted you: I know you do <hi>intend it;</hi> and if you do, Why not now? when the Lord hath ſo miraculouſly <hi>broken the power of the enemie,</hi> and (in ſo great a meaſure) <hi>ſubdued the Kingdom before you,</hi> as if God of purpoſe had <hi>created</hi> you an opportunity to give demonſtration to the world, that <hi>you are in good earneſt.</hi> Onely let me ſay thus much to you, in that plainneſſe you give the Miniſters of the Goſpel leave to uſe:</p>
+            <p>Jeſus Chriſt will not always wait upon States and King<g ref="char:EOLhyphen"/>doms; he will not always come a begging, as it were, to Par<g ref="char:EOLhyphen"/>liament-doors. He that bids his Servants <hi>ſhake off the duſt of their feet,</hi>
+               <note place="margin">Matth. 10.14.</note> in caſe of <hi>refuſal</hi> of their <hi>meſſage,</hi> knows how to do it himſelf,<note place="margin">Pſal. 2.12.</note> ſhould he be <hi>angred out of his patience.</hi> Time is coming when <hi>Kings</hi> and <hi>Kingdoms</hi> would be as glad of Chriſt, as he would be now of them: When in their <hi>fears</hi> and <hi>dangers,</hi> when <hi>enemies</hi> be upon them, and ruine and deſolation at their gates, then, <hi>Iſaiah, lift up a prayer;</hi> then, <hi>ſend the Lamb to the Ruler,</hi> with ſupplications, <hi>Lord Jeſus, come thou and rule over us:</hi> But as the <hi>Scotch-man</hi> ſaid of the <hi>Engliſh-mans</hi> Will, "Imprimis, <hi>I bequeath my ſoul to God,</hi> &amp;c. I but, ſaid he, <hi>Will he tak it man, will he tak it?</hi> ſo may I queſtion concerning ſuch tenders of <hi>Thrones</hi> and <hi>Kingdoms,</hi> Will Chriſt <hi>take them,</hi> will he <hi>accept of them?</hi> when haply they ſhall be ſurrendred upon no better terms then a deſperate King would deliver up his Crown to <hi>any of his Neighbours,</hi>
+               <note place="margin">
+                  <hi>Vortinger,</hi> &amp;c.</note> even to a Stranger that would come and help him againſt his <hi>prevailing enemies;</hi> what Chriſt would do in ſuch a caſe, jude you. And therefore Oh <hi>kiſſe the Son leſt he be angry,</hi>
+               <note place="margin">Pſal. 2.12.</note> 
+               <hi>and ye periſh from the way: when his wrath is kindled but a little, bleſſed are all they that put their truſt in him.</hi> Happie <hi>Parliament,</hi> happie <hi>State,</hi> happie <hi>People,</hi>
+               <pb n="33" facs="tcp:113436:21"/>happie <hi>Perſon,</hi> that makes Chriſt their <hi>choice,</hi> and not their <hi>ne<g ref="char:EOLhyphen"/>ceſſity.</hi>
+            </p>
+            <p>I have done: Onely ſuffer me one word more.</p>
+            <p>Take heed, I humbly beſeech you, of ſetting your ſelves down at the <hi>upper end</hi> of <hi>Christs Houſe</hi> and <hi>Table,</hi> and of ſuffering <hi>Him</hi> to be thruſt down to ſerve as an <hi>underling</hi> at the <hi>lower and,</hi> to have no more then the <hi>lusts</hi> of ſome, and the <hi>humours</hi> and <hi>fancies</hi> of others, can ſpare him. But <hi>you have not ſo learned Christ:</hi> and therefore, to all you that ſtand before God this day<g ref="char:punc">▪</g> and to as many as deſire to be a thankful people; let me adde a word to cloſe up all. Here is a <hi>Model,</hi> let it be your wiſdom and honour to <hi>mould</hi> and <hi>form</hi> your Thankfulneſſe for this days, and for all your mercies, upon it.</p>
+            <p n="1">1. Give all diligence to poſſeſſe your ſelves of the <hi>grace</hi> of <hi>Thankfulneſſe,</hi> as well as of the <hi>affection</hi> of <hi>Joy</hi> and <hi>Gladneſſe:</hi> to that end, <hi>ply</hi> the Throne of Grace, and <hi>plead</hi> the accompliſh<g ref="char:EOLhyphen"/>ment of that promiſe: <hi>A new heart will I give you,</hi>
+               <note place="margin">Ezek. 36.26.</note> 
+               <hi>and a new ſpirit will I put into you:</hi> That is done, when all the <hi>natural af<g ref="char:EOLhyphen"/>fections</hi> have a <hi>divine, ſpiritual impreſſe</hi> ſtampt upon them; when as they have born the <hi>image of the earthly,</hi> ſo now they bear the <hi>image of the heavenly.</hi>
+            </p>
+            <p n="2">2. Studie, I beſeech you, <hi>Spiritual Grounds</hi> and <hi>Riſes</hi> from which your Thankfulneſſe may take flight heaven ward; as,</p>
+            <p>Firſt, <hi>Scripture interest;</hi> ſtudie rather <hi>a good Title,</hi> then <hi>great Poſſeſſions;</hi> namely, to enjoy what you have, by <hi>Sonſhip</hi> as well as <hi>Creatureſhip;</hi> by <hi>co-inheritance</hi> with Jeſus Chriſt; by <hi>pro<g ref="char:EOLhyphen"/>miſe</hi> as well as <hi>providence;</hi> with <hi>Gods love,</hi> as well as by <hi>Gods leave.</hi> Studie the Covenant well; and then count thy <hi>interest</hi> better then the <hi>principal.</hi> I tell thee for thy comfort, if thou canſt do ſo; if <hi>Scripture-interest</hi> can bring in more content and ſatisfaction to thy ſoul, then all <hi>earthly poſſeſſions;</hi> if <hi>Cove<g ref="char:EOLhyphen"/>nant-title</hi> can draw out and endear thy heart to G<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, more then all the deliverances and proviſions caſt in by <hi>providence;</hi> fear not, thou art a <hi>childe of promiſe.</hi>
+            </p>
+            <p>Secondly, obſerve the <hi>Returns of Prayer:</hi> if thou haſt been a praying Chriſtian all this time of <hi>Englands</hi> trouble, and art ſuch a one as lookeſt after thine own prayers, knoweſt them when thou ſeeſt them again; if the hearing of thy prayer can
+<pb n="34" facs="tcp:113436:22"/>endear thy heart to God, more then the bulk of thy mercy, whatever it is (of theſe viſible treaſures) I pronounce the a man or woman that haſt more cauſe to rejoyce then if God had given thee <hi>this days ſurrender,</hi> the City of <hi>Chester,</hi> ſolely and entirely to thine own ſhare.</p>
+            <p>Thirdly, be critical to ſpie out <hi>ſoul-advantages,</hi> the <hi>Spiritual part</hi> of every mercy; and wear them as the richeſt piece of all thy poſſeſſions.</p>
+            <p>Fourthly, eye the <hi>Exaltations and liftings up of God</hi> in all his works, eſpecially ſuch as this day brings in to us, and let them lie neereſt thy heart; they will keep it warm with an heavenly influence.</p>
+            <p n="3">3. Be careful to maintain <hi>a faithful Remembrance</hi> of the mercies of God in your <hi>heads,</hi> and <hi>a ſetled conſtant frame of Thankfulneſſe</hi> upon your <hi>hearts:</hi> for know this, The <hi>mercies</hi> of God cannot <hi>periſh alone,</hi> but thou ſhalt periſh with them: if thou forget them (that is, with a careleſſe graceleſſe forgetful<g ref="char:EOLhyphen"/>neſſe) God will forget thee: if thou caſt the mercies of God out to the dung-hill, God will throw thee after them. O be of<g ref="char:EOLhyphen"/>ten charging thy ſoul,<note place="margin">Pſal. 103, 2.</note> with <hi>David; Bleſſe the Lord, O my ſoul, and forget not all his benefits.</hi>
+            </p>
+            <p n="4">4. Deſigne out for God the <hi>choiſeſt</hi> and <hi>moſt ſpiritual Returns;</hi> ſuch as you have beheld.</p>
+            <p>Firſt, ſet up God in your <hi>thoughts,</hi> exalt him in your admiring facultie:<note place="margin">Pſal. 66.3.</note> 
+               <hi>Say unto God, How terrible art thou in thy works! through the greatneſſe of thy power ſhall thine enemies ſubmit them<g ref="char:EOLhyphen"/>ſelves unto thee.</hi>
+            </p>
+            <p>Secondly, engage your ſelves and others in <hi>Prayer to God:</hi> ſay,<note place="margin">Pſal. 63.2.</note> 
+               <hi>O thou that heareſt Prayer, to thee ſhall all fleſh come:</hi> Be ſtedfaſt and unmoveable, always abounding in this work of the Lord,<note place="margin">1 Cor. 15. <hi>ult.</hi>
+               </note> foraſmuch as you ſee your labour ſhall not be in vain in the Lord: <hi>He never ſaid to the ſeed of Jacob, Seek ye me in vain.</hi>
+               <note place="margin">Iſa. 45.19.</note>
+            </p>
+            <p>Thirdly, let your Thankfulneſſe work it ſelf into pure flames of <hi>Love to God,</hi> and expreſſe it by labouring</p>
+            <p>To
+<list>
+                  <item>Know more of God.</item>
+                  <item>Enjoy more Communion with God.</item>
+                  <item>Boaſt and glory more in God.</item>
+               </list>
+            </p>
+            <pb n="35" facs="tcp:113436:22"/>
+            <p>Fourthly, ſtudie <hi>Self-denial;</hi> let there be but one will be<g ref="char:EOLhyphen"/>tween God and thee, and let <hi>that will</hi> be <hi>Gods.</hi> He is a thank<g ref="char:EOLhyphen"/>ful man indeed, that in doing and ſuffering can ſay, <hi>Father, not my will, but thine be done.</hi>
+            </p>
+            <p>Fifthly, pay your Vows: If ever <hi>England,</hi> or thou proſper, it muſt be by ke<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ping of Covenant, <hi>Ezek.</hi> 17.14. Be often roll<g ref="char:EOLhyphen"/>ing, that in thy ſoul:<note place="margin">Pſal. 56.12.</note> 
+               <hi>I will render prai<g ref="char:EOLhyphen"/>ſes unto thee.</hi>
+            </p>
+            <p>Sixthly, Give glory to God <hi>by believing:</hi> by all the wonders that God hath done, learn <hi>to truſt him in the n<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>xt ſtrait;</hi> if faith have not produced theſe Deliverances, let theſe Deliverances produce faith: If <hi>happie they that have not ſeen, and yet belie<g ref="char:EOLhyphen"/>ved;</hi> what ſhall become of them that <hi>have ſeen,</hi> and yet <hi>be<g ref="char:EOLhyphen"/>lieve not?</hi>
+            </p>
+            <p>Seventhly, look to the <hi>ordering of your converſation, the diſpe<g ref="char:EOLhyphen"/>ſing of your way aright: The thankfulneſſe of the life,</hi> is <hi>the ve<g ref="char:EOLhyphen"/>ry life of Thankfulneſſe.</hi>
+            </p>
+            <p>Eighthly, widen your hearts in <hi>enlarged deſires that others may praiſe God:</hi> go a begging from door to door thorow the whole Creation for praiſes for thy God.</p>
+            <p>Ninthly, to that end, <hi>declare among the people his doings:</hi>
+               <note place="margin">Pſal. 9.11. Pſal. 66.2.</note> 
+               <hi>Sing forth the honour of his Name, make his praiſe glorious.</hi> It were a good <hi>becoming Solemnitie</hi> on theſe days of Thankſgiving, if Chriſtians in their private meetings together to <hi>feast</hi> and <hi>re<g ref="char:EOLhyphen"/>joyce</hi> before the Lord, would make it a Law, that every one in their turn ſhould remember and repeat ſome ſpecial eminent <hi>Victory</hi> or <hi>Deliverance</hi> wrought by God either for the <hi>Nation</hi> in <hi>general,</hi> eſpecially ſince the coming together of this <hi>happie Parliament,</hi> and the beginning of theſe <hi>unhappie Wars;</hi> or for <hi>themſelves in particular.</hi> Such conference as this would keep out vain and unprofitable diſcourſe, preſerve the memorial of Gods Loving kindneſſes, exceedingly honour God, and adorn your Chriſtian meetings together: ſurely ſuch <hi>praiſe were comely for the upright.</hi> Chriſtians, take all the ways you can, that Gods praiſe <hi>may live</hi> when you <hi>are dead.</hi>
+            </p>
+            <p>Tenthly, be continually <hi>breathing after heaven,</hi> where the <hi>praiſes</hi> as well as the <hi>ſpirits</hi> of juſt men, are made <hi>perfect</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> uſe <hi>Auſtins</hi> Contemplation with a little variation: <hi>O Lord<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> ſays
+<pb n="36" facs="tcp:113436:23"/>he, <hi>can no man ſee thy face and live? then let me die, that I may thy face:</hi> Say thou, <hi>O Lord, can no man praiſe thee and live? then let me die that I may live to praiſe thee for ever.</hi>
+            </p>
+            <p>And let me ſpeak this one word to the comfort of all you who can ſpread, or (as the Hebrew ſignifies) <hi>meaſure</hi> your Thankfulneſſe upon this <hi>Model,</hi> as <hi>Elijah</hi> ſpread himſelf upon the <hi>Shunemites</hi> dead ſon,<note place="margin">2 Kings 4.34.</note> 
+               <hi>mouth to mouth, eyes upon eyes,</hi> and <hi>hand upon hand;</hi> limb upon limb, and part upon part; yea, that do make it a buſineſſe ſo to do: <hi>you have begun your heaven on earth;</hi> die when you will<g ref="char:punc">▪</g> you may change your <hi>company,</hi> but not your <hi>work:</hi> you have begun an <hi>everlasting day of Thanksgiving:</hi> you have the Word of God for it;</p>
+            <p>Who ſo <hi>offereth praiſe;</hi>
+               <note place="margin">Pſal. 50. <hi>ult.</hi>
+               </note> 
+               <hi>glorifieth me; and to him that ordereth his converſation aright, will I ſhew the ſalvation of God.</hi>
+            </p>
+            <p>AMEN.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
